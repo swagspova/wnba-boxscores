@@ -1,0 +1,331 @@
+﻿GameID,Date,Name,Away,AwayScore,Home,HomeScore,Venue,Attendance,Overtime
+401856890,2026-05-08,Connecticut Sun at New York Liberty,Connecticut Sun,75,New York Liberty,106,Barclays Center,17615,False
+401856891,2026-05-08,Washington Mystics at Toronto Tempo,Washington Mystics,68,Toronto Tempo,65,Coca-Cola Coliseum,8210,False
+401856892,2026-05-09,Golden State Valkyries at Seattle Storm,Golden State Valkyries,91,Seattle Storm,80,Climate Pledge Arena,14200,False
+401856893,2026-05-09,Dallas Wings at Indiana Fever,Dallas Wings,107,Indiana Fever,104,Gainbridge Fieldhouse,17274,False
+401856894,2026-05-09,Phoenix Mercury at Las Vegas Aces,Phoenix Mercury,99,Las Vegas Aces,66,T-Mobile Arena,16511,False
+401856895,2026-05-10,Chicago Sky at Portland Fire,Chicago Sky,98,Portland Fire,83,Moda Center,19335,False
+401856896,2026-05-10,Seattle Storm at Connecticut Sun,Seattle Storm,89,Connecticut Sun,82,Mohegan Sun Arena,7374,False
+401856897,2026-05-10,New York Liberty at Washington Mystics,New York Liberty,98,Washington Mystics,93,CareFirst Arena,4200,True
+401856898,2026-05-10,Las Vegas Aces at Los Angeles Sparks,Las Vegas Aces,105,Los Angeles Sparks,78,crypto.com Arena,12266,False
+401856899,2026-05-10,Atlanta Dream at Minnesota Lynx,Atlanta Dream,91,Minnesota Lynx,90,Target Center,10821,False
+401856900,2026-05-11,Phoenix Mercury at Golden State Valkyries,Phoenix Mercury,79,Golden State Valkyries,95,Chase Center,18064,False
+401856901,2026-05-13,Atlanta Dream at Dallas Wings,Atlanta Dream,77,Dallas Wings,72,College Park Center,6251,False
+401856902,2026-05-13,Minnesota Lynx at Phoenix Mercury,Minnesota Lynx,88,Phoenix Mercury,84,Mortgage Matchup Center,10826,False
+401856903,2026-05-13,New York Liberty at Portland Fire,New York Liberty,96,Portland Fire,98,Moda Center,12386,False
+401856904,2026-05-13,Seattle Storm at Toronto Tempo,Seattle Storm,73,Toronto Tempo,86,Coca-Cola Coliseum,8142,False
+401856905,2026-05-14,Las Vegas Aces at Connecticut Sun,Las Vegas Aces,98,Connecticut Sun,69,Mohegan Sun Arena,5452,False
+401856906,2026-05-14,Chicago Sky at Golden State Valkyries,Chicago Sky,69,Golden State Valkyries,63,Chase Center,18064,False
+401856907,2026-05-14,Indiana Fever at Los Angeles Sparks,Indiana Fever,87,Los Angeles Sparks,78,crypto.com Arena,12605,False
+401856908,2026-05-15,Minnesota Lynx at Dallas Wings,Minnesota Lynx,90,Dallas Wings,86,College Park Center,5982,False
+401856909,2026-05-15,New York Liberty at Portland Fire,New York Liberty,100,Portland Fire,82,Moda Center,13087,False
+401856910,2026-05-15,Las Vegas Aces at Connecticut Sun,Las Vegas Aces,101,Connecticut Sun,94,Mohegan Sun Arena,7265,False
+401856911,2026-05-15,Washington Mystics at Indiana Fever,Washington Mystics,104,Indiana Fever,102,Gainbridge Fieldhouse,15673,True
+401856912,2026-05-16,Toronto Tempo at Los Angeles Sparks,Toronto Tempo,95,Los Angeles Sparks,99,crypto.com Arena,11861,False
+401856913,2026-05-16,Chicago Sky at Phoenix Mercury,Chicago Sky,83,Phoenix Mercury,91,Mortgage Matchup Center,11094,False
+401856914,2026-05-17,Chicago Sky at Minnesota Lynx,Chicago Sky,86,Minnesota Lynx,79,Target Center,10001,False
+401856915,2026-05-17,Las Vegas Aces at Atlanta Dream,Las Vegas Aces,85,Atlanta Dream,84,State Farm Arena,17044,False
+401856916,2026-05-17,Seattle Storm at Indiana Fever,Seattle Storm,78,Indiana Fever,89,Gainbridge Fieldhouse,14505,False
+401856917,2026-05-17,Toronto Tempo at Los Angeles Sparks,Toronto Tempo,106,Los Angeles Sparks,96,crypto.com Arena,11648,False
+401856918,2026-05-19,Washington Mystics at Dallas Wings,Washington Mystics,69,Dallas Wings,92,College Park Center,6251,False
+401856919,2026-05-19,Connecticut Sun at Portland Fire,Connecticut Sun,82,Portland Fire,83,Moda Center,12010,False
+401856920,2026-05-20,Toronto Tempo at Phoenix Mercury,Toronto Tempo,98,Phoenix Mercury,90,Mortgage Matchup Center,9337,False
+401856921,2026-05-20,Portland Fire at Indiana Fever,Portland Fire,73,Indiana Fever,90,Gainbridge Fieldhouse,14010,False
+401856922,2026-05-21,Dallas Wings at Chicago Sky,Dallas Wings,99,Chicago Sky,89,Wintrust Arena,9025,False
+401856923,2026-05-21,Connecticut Sun at Seattle Storm,Connecticut Sun,80,Seattle Storm,78,Climate Pledge Arena,9024,False
+401856924,2026-05-22,Golden State Valkyries at New York Liberty,Golden State Valkyries,87,New York Liberty,70,Barclays Center,15862,False
+401856925,2026-05-22,Toronto Tempo at Minnesota Lynx,Toronto Tempo,72,Minnesota Lynx,100,Target Center,8910,False
+401856926,2026-05-22,Los Angeles Sparks at Phoenix Mercury,Los Angeles Sparks,97,Phoenix Mercury,88,Mortgage Matchup Center,10953,False
+401856927,2026-05-22,Dallas Wings at Atlanta Dream,Dallas Wings,69,Atlanta Dream,86,Gateway Center,3626,False
+401856928,2026-05-22,Golden State Valkyries at Indiana Fever,Golden State Valkyries,82,Indiana Fever,90,Gainbridge Fieldhouse,16742,False
+401856929,2026-05-23,Connecticut Sun at Seattle Storm,Connecticut Sun,59,Seattle Storm,77,Climate Pledge Arena,9741,False
+401856930,2026-05-23,Minnesota Lynx at Chicago Sky,Minnesota Lynx,85,Chicago Sky,75,Wintrust Arena,7030,False
+401856931,2026-05-23,Portland Fire at Toronto Tempo,Portland Fire,99,Toronto Tempo,80,Coca-Cola Coliseum,8210,False
+401856932,2026-05-24,Los Angeles Sparks at Las Vegas Aces,Los Angeles Sparks,101,Las Vegas Aces,95,Michelob ULTRA Arena,10386,False
+401856933,2026-05-24,Phoenix Mercury at Atlanta Dream,Phoenix Mercury,80,Atlanta Dream,82,Gateway Center,3575,False
+401856935,2026-05-24,Washington Mystics at Seattle Storm,Washington Mystics,85,Seattle Storm,97,Climate Pledge Arena,10559,False
+401856936,2026-05-26,Portland Fire at New York Liberty,Portland Fire,81,New York Liberty,74,Barclays Center,13881,False
+401856937,2026-05-26,Connecticut Sun at Golden State Valkyries,Connecticut Sun,70,Golden State Valkyries,97,Chase Center,18064,False
+401856938,2026-05-27,Phoenix Mercury at New York Liberty,Phoenix Mercury,74,New York Liberty,84,Barclays Center,14995,False
+401856939,2026-05-28,Toronto Tempo at Chicago Sky,Toronto Tempo,111,Chicago Sky,104,Wintrust Arena,6209,False
+401856940,2026-05-28,Atlanta Dream at Minnesota Lynx,Atlanta Dream,81,Minnesota Lynx,96,Target Center,9912,False
+401856941,2026-05-28,Connecticut Sun at Portland Fire,Connecticut Sun,61,Portland Fire,71,Moda Center,11945,False
+401856942,2026-05-28,Washington Mystics at Seattle Storm,Washington Mystics,78,Seattle Storm,64,Climate Pledge Arena,9202,False
+401856943,2026-05-29,Las Vegas Aces at Dallas Wings,Las Vegas Aces,87,Dallas Wings,95,College Park Center,6251,False
+401856944,2026-05-29,Indiana Fever at Golden State Valkyries,Indiana Fever,88,Golden State Valkyries,90,Chase Center,18064,False
+401856945,2026-05-29,Phoenix Mercury at New York Liberty,Phoenix Mercury,68,New York Liberty,75,Barclays Center,17579,False
+401856946,2026-05-29,Los Angeles Sparks at Washington Mystics,Los Angeles Sparks,92,Washington Mystics,87,CareFirst Arena,4200,False
+401856948,2026-05-30,Atlanta Dream at Portland Fire,Atlanta Dream,86,Portland Fire,66,Moda Center,13602,False
+401856949,2026-05-30,Seattle Storm at Toronto Tempo,Seattle Storm,72,Toronto Tempo,93,Coca-Cola Coliseum,8210,False
+401856950,2026-05-30,Los Angeles Sparks at Connecticut Sun,Los Angeles Sparks,81,Connecticut Sun,84,PeoplesBank Arena,10478,False
+401856951,2026-05-31,Indiana Fever at Portland Fire,Indiana Fever,84,Portland Fire,100,Moda Center,19347,False
+401856952,2026-05-31,Las Vegas Aces at Golden State Valkyries,Las Vegas Aces,91,Golden State Valkyries,81,Chase Center,18064,False
+401856953,2026-06-02,Seattle Storm at Dallas Wings,Seattle Storm,56,Dallas Wings,79,College Park Center,6251,False
+401856954,2026-06-02,Minnesota Lynx at Phoenix Mercury,Minnesota Lynx,111,Phoenix Mercury,77,Mortgage Matchup Center,9234,False
+401856955,2026-06-02,Connecticut Sun at Atlanta Dream,Connecticut Sun,75,Atlanta Dream,91,Gateway Center,3575,False
+401856956,2026-06-02,Chicago Sky at Washington Mystics,Chicago Sky,72,Washington Mystics,90,CareFirst Arena,4200,False
+401856957,2026-06-03,Portland Fire at Golden State Valkyries,Portland Fire,77,Golden State Valkyries,95,Chase Center,18064,False
+401856958,2026-06-03,Las Vegas Aces at Los Angeles Sparks,Las Vegas Aces,79,Los Angeles Sparks,69,crypto.com Arena,11178,False
+401856959,2026-06-03,Toronto Tempo at New York Liberty,Toronto Tempo,82,New York Liberty,97,Barclays Center,14574,False
+401856960,2026-06-04,Phoenix Mercury at Seattle Storm,Phoenix Mercury,72,Seattle Storm,68,Climate Pledge Arena,9109,False
+401856961,2026-06-04,Atlanta Dream at Indiana Fever,Atlanta Dream,71,Indiana Fever,83,Gainbridge Fieldhouse,17002,False
+401856962,2026-06-05,Golden State Valkyries at Minnesota Lynx,Golden State Valkyries,84,Minnesota Lynx,87,Target Center,9105,False
+401856963,2026-06-05,Connecticut Sun at Chicago Sky,Connecticut Sun,80,Chicago Sky,85,Wintrust Arena,6594,False
+401856964,2026-06-06,Dallas Wings at Los Angeles Sparks,Dallas Wings,104,Los Angeles Sparks,96,crypto.com Arena,12828,False
+401856965,2026-06-06,Phoenix Mercury at Portland Fire,Phoenix Mercury,78,Portland Fire,72,Moda Center,12046,False
+401856966,2026-06-06,Seattle Storm at Minnesota Lynx,Seattle Storm,68,Minnesota Lynx,88,Target Center,10801,False
+401856967,2026-06-06,Golden State Valkyries at Las Vegas Aces,Golden State Valkyries,79,Las Vegas Aces,84,Michelob ULTRA Arena,10467,False
+401856968,2026-06-06,Washington Mystics at Atlanta Dream,Washington Mystics,77,Atlanta Dream,109,Gateway Center,3609,False
+401856969,2026-06-07,Indiana Fever at New York Liberty,Indiana Fever,75,New York Liberty,83,Barclays Center,16306,False
+401856970,2026-06-07,Chicago Sky at Toronto Tempo,Chicago Sky,68,Toronto Tempo,85,Coca-Cola Coliseum,8210,False
+401856971,2026-06-07,Portland Fire at Los Angeles Sparks,Portland Fire,72,Los Angeles Sparks,89,crypto.com Arena,11227,False
+401856972,2026-06-08,New York Liberty at Connecticut Sun,New York Liberty,89,Connecticut Sun,80,Mohegan Sun Arena,0,False
+401856973,2026-06-08,Indiana Fever at Washington Mystics,Indiana Fever,78,Washington Mystics,76,CareFirst Arena,4200,False
+401856974,2026-06-09,Seattle Storm at Las Vegas Aces,Seattle Storm,91,Las Vegas Aces,101,Michelob ULTRA Arena,10261,False
+401856975,2026-06-09,Atlanta Dream at Chicago Sky,Atlanta Dream,82,Chicago Sky,75,Wintrust Arena,6921,False
+401856976,2026-06-10,Dallas Wings at Minnesota Lynx,Dallas Wings,76,Minnesota Lynx,100,Target Center,10907,False
+401856977,2026-06-10,Phoenix Mercury at Golden State Valkyries,Phoenix Mercury,81,Golden State Valkyries,87,Chase Center,18064,False
+401856978,2026-06-10,Connecticut Sun at Toronto Tempo,Connecticut Sun,102,Toronto Tempo,106,Coca-Cola Coliseum,8210,True
+401856979,2026-06-11,Los Angeles Sparks at Seattle Storm,Los Angeles Sparks,88,Seattle Storm,83,Climate Pledge Arena,9309,False
+401856980,2026-06-11,Chicago Sky at Indiana Fever,Chicago Sky,106,Indiana Fever,114,Gainbridge Fieldhouse,15578,True
+401856981,2026-06-11,New York Liberty at Atlanta Dream,New York Liberty,104,Atlanta Dream,90,Gateway Center,3600,False
+401856982,2026-06-12,Phoenix Mercury at Dallas Wings,Phoenix Mercury,70,Dallas Wings,85,College Park Center,6251,False
+401856983,2026-06-12,Las Vegas Aces at Portland Fire,Las Vegas Aces,105,Portland Fire,89,Moda Center,13178,False
+401856984,2026-06-12,Toronto Tempo at Washington Mystics,Toronto Tempo,85,Washington Mystics,86,CareFirst Arena,4200,False
+401856985,2026-06-13,Golden State Valkyries at Seattle Storm,Golden State Valkyries,76,Seattle Storm,72,Climate Pledge Arena,10648,False
+401856986,2026-06-13,Indiana Fever at Connecticut Sun,Indiana Fever,85,Connecticut Sun,75,Mohegan Sun Arena,8910,False
+401856987,2026-06-14,Minnesota Lynx at Las Vegas Aces,Minnesota Lynx,97,Las Vegas Aces,100,Michelob ULTRA Arena,10330,False
+401856988,2026-06-14,Dallas Wings at Portland Fire,Dallas Wings,83,Portland Fire,84,Moda Center,14612,False
+401856989,2026-06-14,Los Angeles Sparks at Phoenix Mercury,Los Angeles Sparks,111,Phoenix Mercury,102,Mortgage Matchup Center,9234,True
+401856990,2026-06-14,Washington Mystics at New York Liberty,Washington Mystics,64,New York Liberty,86,Barclays Center,17581,False
+401856991,2026-06-14,Atlanta Dream at Toronto Tempo,Atlanta Dream,102,Toronto Tempo,77,Coca-Cola Coliseum,8210,False
+401856992,2026-06-16,Las Vegas Aces at Dallas Wings,Las Vegas Aces,66,Dallas Wings,96,College Park Center,6251,False
+401856993,2026-06-16,Portland Fire at Minnesota Lynx,Portland Fire,74,Minnesota Lynx,107,Target Center,10812,False
+401856994,2026-06-16,Los Angeles Sparks at Golden State Valkyries,Los Angeles Sparks,58,Golden State Valkyries,78,Chase Center,18064,False
+401856995,2026-06-16,Toronto Tempo at Indiana Fever,Toronto Tempo,91,Indiana Fever,113,Gainbridge Fieldhouse,15017,False
+401856996,2026-06-17,Washington Mystics at Connecticut Sun,Washington Mystics,88,Connecticut Sun,81,Mohegan Sun Arena,6943,False
+401856997,2026-06-18,New York Liberty at Chicago Sky,New York Liberty,96,Chicago Sky,95,Wintrust Arena,7225,False
+401856998,2026-06-18,Dallas Wings at Golden State Valkyries,Dallas Wings,80,Golden State Valkyries,91,Chase Center,18064,False
+401856999,2026-06-18,Minnesota Lynx at Los Angeles Sparks,Minnesota Lynx,99,Los Angeles Sparks,83,crypto.com Arena,11481,False
+401857000,2026-06-18,Las Vegas Aces at Phoenix Mercury,Las Vegas Aces,86,Phoenix Mercury,76,Mortgage Matchup Center,9234,False
+401857001,2026-06-18,Seattle Storm at Portland Fire,Seattle Storm,89,Portland Fire,94,Moda Center,13084,False
+401857002,2026-06-18,Atlanta Dream at Indiana Fever,Atlanta Dream,108,Indiana Fever,101,Gainbridge Fieldhouse,17274,False
+401857003,2026-06-19,Toronto Tempo at Connecticut Sun,Toronto Tempo,101,Connecticut Sun,97,Mohegan Sun Arena,7078,False
+401857004,2026-06-19,Washington Mystics at New York Liberty,Washington Mystics,86,New York Liberty,83,Barclays Center,16539,False
+401857005,2026-06-20,Minnesota Lynx at Golden State Valkyries,Minnesota Lynx,81,Golden State Valkyries,75,Chase Center,18064,False
+401857006,2026-06-20,Indiana Fever at Atlanta Dream,Indiana Fever,96,Atlanta Dream,113,State Farm Arena,17044,False
+401857007,2026-06-20,Seattle Storm at Phoenix Mercury,Seattle Storm,73,Phoenix Mercury,93,Mortgage Matchup Center,9662,False
+401857008,2026-06-21,Chicago Sky at Dallas Wings,Chicago Sky,92,Dallas Wings,93,College Park Center,6251,False
+401857009,2026-06-21,Golden State Valkyries at Las Vegas Aces,Golden State Valkyries,73,Las Vegas Aces,92,Michelob ULTRA Arena,10350,False
+401857010,2026-06-21,Washington Mystics at Minnesota Lynx,Washington Mystics,84,Minnesota Lynx,79,Target Center,11610,False
+401857011,2026-06-22,New York Liberty at Los Angeles Sparks,New York Liberty,97,Los Angeles Sparks,98,crypto.com Arena,18043,False
+401857012,2026-06-22,Chicago Sky at Connecticut Sun,Chicago Sky,63,Connecticut Sun,92,Mohegan Sun Arena,7036,False
+401857013,2026-06-22,Toronto Tempo at Atlanta Dream,Toronto Tempo,87,Atlanta Dream,94,State Farm Arena,9685,False
+401857014,2026-06-23,Phoenix Mercury at Indiana Fever,Phoenix Mercury,77,Indiana Fever,86,Gainbridge Fieldhouse,15198,False
+401857015,2026-06-23,Dallas Wings at Seattle Storm,Dallas Wings,112,Seattle Storm,110,Climate Pledge Arena,14200,True
+401857016,2026-06-24,New York Liberty at Las Vegas Aces,New York Liberty,87,Las Vegas Aces,76,Michelob ULTRA Arena,10274,False
+401857017,2026-06-24,Phoenix Mercury at Indiana Fever,Phoenix Mercury,111,Indiana Fever,109,Gainbridge Fieldhouse,16128,False
+401857018,2026-06-24,Minnesota Lynx at Washington Mystics,Minnesota Lynx,78,Washington Mystics,76,CareFirst Arena,4200,False
+401857019,2026-06-25,Portland Fire at Chicago Sky,Portland Fire,78,Chicago Sky,101,Wintrust Arena,7468,False
+401857020,2026-06-25,Atlanta Dream at Golden State Valkyries,Atlanta Dream,66,Golden State Valkyries,77,Chase Center,0,False
+401857021,2026-06-25,Los Angeles Sparks at Toronto Tempo,Los Angeles Sparks,97,Toronto Tempo,125,Coca-Cola Coliseum,8210,False
+401857022,2026-06-26,Dallas Wings at Las Vegas Aces,Dallas Wings,84,Las Vegas Aces,99,Michelob ULTRA Arena,10295,False
+401857023,2026-06-26,New York Liberty at Seattle Storm,New York Liberty,88,Seattle Storm,99,Climate Pledge Arena,11968,False
+401857024,2026-06-26,Washington Mystics at Connecticut Sun,Washington Mystics,57,Connecticut Sun,68,Mohegan Sun Arena,7789,False
+401857025,2026-06-26,Portland Fire at Chicago Sky,Portland Fire,94,Chicago Sky,124,Wintrust Arena,7228,False
+401857026,2026-06-27,Atlanta Dream at Golden State Valkyries,Atlanta Dream,75,Golden State Valkyries,78,Chase Center,18064,False
+401857027,2026-06-27,Phoenix Mercury at Toronto Tempo,Phoenix Mercury,89,Toronto Tempo,80,Scotiabank Arena,15687,False
+401857028,2026-06-28,Los Angeles Sparks at Indiana Fever,Los Angeles Sparks,87,Indiana Fever,111,Gainbridge Fieldhouse,16018,False
+401857029,2026-06-28,Atlanta Dream at Seattle Storm,Atlanta Dream,90,Seattle Storm,105,Climate Pledge Arena,13643,False
+401857030,2026-06-28,Minnesota Lynx at Dallas Wings,Minnesota Lynx,85,Dallas Wings,77,College Park Center,6251,False
+401857031,2026-06-28,Portland Fire at Washington Mystics,Portland Fire,123,Washington Mystics,124,CareFirst Arena,4200,True
+401857032,2026-06-28,Las Vegas Aces at Chicago Sky,Las Vegas Aces,107,Chicago Sky,99,United Center,11476,False
+401857033,2026-06-28,New York Liberty at Golden State Valkyries,New York Liberty,67,Golden State Valkyries,76,Chase Center,18064,False
+401857321,2026-06-30,Las Vegas Aces at New York Liberty,Las Vegas Aces,85,New York Liberty,93,Barclays Center,15112,False
+401857034,2026-07-02,Atlanta Dream at Washington Mystics,Atlanta Dream,76,Washington Mystics,81,CareFirst Arena,4200,False
+401857035,2026-07-03,Dallas Wings at Connecticut Sun,Dallas Wings,86,Connecticut Sun,83,PeoplesBank Arena,14578,False
+401857036,2026-07-03,Seattle Storm at Phoenix Mercury,Seattle Storm,67,Phoenix Mercury,90,Mortgage Matchup Center,10055,False
+401857037,2026-07-03,Minnesota Lynx at New York Liberty,Minnesota Lynx,86,New York Liberty,99,Barclays Center,15345,False
+401857038,2026-07-04,Chicago Sky at Las Vegas Aces,Chicago Sky,90,Las Vegas Aces,98,T-Mobile Arena,15837,True
+401857039,2026-07-04,Golden State Valkyries at Atlanta Dream,Golden State Valkyries,88,Atlanta Dream,83,Gateway Center,3596,False
+401857040,2026-07-05,Portland Fire at Seattle Storm,Portland Fire,77,Seattle Storm,72,Climate Pledge Arena,10251,False
+401857041,2026-07-05,Dallas Wings at Toronto Tempo,Dallas Wings,89,Toronto Tempo,76,Coca-Cola Coliseum,8210,False
+401857042,2026-07-05,Indiana Fever at Las Vegas Aces,Indiana Fever,84,Las Vegas Aces,68,T-Mobile Arena,17796,False
+401857043,2026-07-06,Golden State Valkyries at Washington Mystics,Golden State Valkyries,62,Washington Mystics,49,CareFirst Arena,4200,False
+401857044,2026-07-07,Connecticut Sun at Minnesota Lynx,Connecticut Sun,90,Minnesota Lynx,89,Target Center,10810,False
+401857045,2026-07-07,Seattle Storm at Los Angeles Sparks,Seattle Storm,82,Los Angeles Sparks,64,crypto.com Arena,12160,False
+401857046,2026-07-08,Dallas Wings at New York Liberty,Dallas Wings,88,New York Liberty,77,Barclays Center,17532,False
+401857047,2026-07-08,Chicago Sky at Phoenix Mercury,Chicago Sky,77,Phoenix Mercury,66,Mortgage Matchup Center,9586,False
+401857048,2026-07-08,Golden State Valkyries at Toronto Tempo,Golden State Valkyries,83,Toronto Tempo,75,Coca-Cola Coliseum,8210,False
+401857049,2026-07-08,Minnesota Lynx at Connecticut Sun,Minnesota Lynx,86,Connecticut Sun,80,Mohegan Sun Arena,8187,False
+401857050,2026-07-09,Indiana Fever at Los Angeles Sparks,Indiana Fever,92,Los Angeles Sparks,106,crypto.com Arena,12939,False
+401857051,2026-07-10,Seattle Storm at Atlanta Dream,Seattle Storm,78,Atlanta Dream,89,Gateway Center,3617,False
+401857052,2026-07-10,Indiana Fever at Phoenix Mercury,Indiana Fever,92,Phoenix Mercury,89,Mortgage Matchup Center,17071,False
+401857053,2026-07-10,Las Vegas Aces at Portland Fire,Las Vegas Aces,88,Portland Fire,80,Moda Center,0,False
+401857054,2026-07-10,Golden State Valkyries at Connecticut Sun,Golden State Valkyries,79,Connecticut Sun,64,Mohegan Sun Arena,8546,False
+401857055,2026-07-10,Dallas Wings at Toronto Tempo,Dallas Wings,108,Toronto Tempo,95,Bell Centre,20996,False
+401857056,2026-07-11,Chicago Sky at Los Angeles Sparks,Chicago Sky,87,Los Angeles Sparks,102,crypto.com Arena,11827,False
+401857057,2026-07-11,New York Liberty at Minnesota Lynx,New York Liberty,85,Minnesota Lynx,90,Target Center,12405,False
+401857058,2026-07-11,Phoenix Mercury at Las Vegas Aces,Phoenix Mercury,58,Las Vegas Aces,106,Michelob ULTRA Arena,10321,False
+401857059,2026-07-11,Portland Fire at Atlanta Dream,Portland Fire,102,Atlanta Dream,92,Gateway Center,3577,False
+401857060,2026-07-12,New York Liberty at Toronto Tempo,New York Liberty,91,Toronto Tempo,93,Bell Centre,12724,False
+401857061,2026-07-12,Seattle Storm at Washington Mystics,Seattle Storm,79,Washington Mystics,84,CareFirst Arena,4200,False
+401857062,2026-07-12,Chicago Sky at Dallas Wings,Chicago Sky,91,Dallas Wings,96,American Airlines Center,13236,False
+401857063,2026-07-13,Indiana Fever at Las Vegas Aces,Indiana Fever,109,Las Vegas Aces,75,Michelob ULTRA Arena,10513,False
+401857064,2026-07-13,Los Angeles Sparks at Atlanta Dream,Los Angeles Sparks,92,Atlanta Dream,101,Gateway Center,3592,False
+401857065,2026-07-14,Phoenix Mercury at Minnesota Lynx,Phoenix Mercury,100,Minnesota Lynx,104,Target Center,10221,False
+401857066,2026-07-14,Portland Fire at Connecticut Sun,Portland Fire,87,Connecticut Sun,90,Mohegan Sun Arena,8917,False
+401857067,2026-07-14,Washington Mystics at Toronto Tempo,Washington Mystics,79,Toronto Tempo,62,Coca-Cola Coliseum,8210,False
+401857068,2026-07-15,Seattle Storm at Chicago Sky,Seattle Storm,90,Chicago Sky,95,Wintrust Arena,9025,False
+401857069,2026-07-15,Los Angeles Sparks at Minnesota Lynx,Los Angeles Sparks,87,Minnesota Lynx,96,Target Center,16410,False
+401857070,2026-07-16,Golden State Valkyries at Indiana Fever,Golden State Valkyries,88,Indiana Fever,75,Gainbridge Fieldhouse,17014,False
+401857071,2026-07-16,Portland Fire at Washington Mystics,Portland Fire,75,Washington Mystics,56,CareFirst Arena,4200,False
+401857073,2026-07-17,Seattle Storm at Indiana Fever,Seattle Storm,107,Indiana Fever,110,Gainbridge Fieldhouse,17274,False
+401857074,2026-07-17,Atlanta Dream at Toronto Tempo,Atlanta Dream,111,Toronto Tempo,92,Coca-Cola Coliseum,8210,False
+401857075,2026-07-17,Los Angeles Sparks at Chicago Sky,Los Angeles Sparks,82,Chicago Sky,96,Wintrust Arena,8123,False
+401857076,2026-07-18,Connecticut Sun at Phoenix Mercury,Connecticut Sun,96,Phoenix Mercury,83,Mortgage Matchup Center,10321,False
+401857077,2026-07-19,New York Liberty at Indiana Fever,New York Liberty,88,Indiana Fever,108,Gainbridge Fieldhouse,17274,False
+401857078,2026-07-19,Portland Fire at Minnesota Lynx,Portland Fire,93,Minnesota Lynx,101,Target Center,12101,False
+401857079,2026-07-19,Washington Mystics at Golden State Valkyries,Washington Mystics,69,Golden State Valkyries,74,Chase Center,18064,False
+401857080,2026-07-19,Los Angeles Sparks at Dallas Wings,Los Angeles Sparks,82,Dallas Wings,90,College Park Center,6251,False
+401857081,2026-07-19,Chicago Sky at Atlanta Dream,Chicago Sky,91,Atlanta Dream,93,Gateway Center,3575,False
+401857082,2026-07-19,Connecticut Sun at Phoenix Mercury,Connecticut Sun,63,Phoenix Mercury,72,Mortgage Matchup Center,13481,False
+401857083,2026-07-21,Las Vegas Aces at Toronto Tempo,Las Vegas Aces,109,Toronto Tempo,83,Coca-Cola Coliseum,8210,False
+401857084,2026-07-21,Washington Mystics at Golden State Valkyries,Washington Mystics,90,Golden State Valkyries,82,Chase Center,18064,False
+401857085,2026-07-21,Minnesota Lynx at Seattle Storm,Minnesota Lynx,105,Seattle Storm,102,Climate Pledge Arena,12500,False
+401892393,2026-07-21,New York Liberty at Dallas Wings,New York Liberty,99,Dallas Wings,98,College Park Center,6251,True
+401857086,2026-07-22,Phoenix Mercury at Los Angeles Sparks,Phoenix Mercury,86,Los Angeles Sparks,82,crypto.com Arena,16900,False
+401857087,2026-07-22,Minnesota Lynx at Seattle Storm,Minnesota Lynx,86,Seattle Storm,76,Climate Pledge Arena,13106,False
+401857088,2026-07-22,Chicago Sky at New York Liberty,Chicago Sky,94,New York Liberty,95,Barclays Center,16783,False
+401857089,2026-07-22,Las Vegas Aces at Washington Mystics,Las Vegas Aces,99,Washington Mystics,100,CareFirst Arena,4200,False
+401857090,2026-07-23,Connecticut Sun at Indiana Fever,Connecticut Sun,88,Indiana Fever,123,Gainbridge Fieldhouse,17274,False
+401857091,2026-07-23,Dallas Wings at Portland Fire,Dallas Wings,101,Portland Fire,97,Moda Center,17206,False
+401857320,2026-07-26,Team Spoon TEAM SPOON at Team Coop TEAM COOP,TEAM SPOON,129,TEAM COOP,122,United Center,19783,False
+401857092,2026-07-28,Connecticut Sun at Washington Mystics,Connecticut Sun,84,Washington Mystics,92,CareFirst Arena,4200,False
+401857093,2026-07-29,Toronto Tempo at Minnesota Lynx,Toronto Tempo,93,Minnesota Lynx,100,Target Center,12121,False
+401857094,2026-07-29,Indiana Fever at Seattle Storm,Indiana Fever,105,Seattle Storm,95,Climate Pledge Arena,18343,False
+401857095,2026-07-29,Portland Fire at Las Vegas Aces,Portland Fire,83,Las Vegas Aces,98,Michelob ULTRA Arena,10240,False
+401857096,2026-07-29,New York Liberty at Los Angeles Sparks,New York Liberty,113,Los Angeles Sparks,109,crypto.com Arena,15499,False
+401857097,2026-07-30,Atlanta Dream at Dallas Wings,Atlanta Dream,82,Dallas Wings,81,College Park Center,6251,False
+401857098,2026-07-30,Golden State Valkyries at Phoenix Mercury,Golden State Valkyries,89,Phoenix Mercury,91,Mortgage Matchup Center,10152,False
+401857099,2026-07-31,Minnesota Lynx at Toronto Tempo,Minnesota Lynx,104,Toronto Tempo,72,Scotiabank Arena,18145,False
+401857100,2026-07-31,Connecticut Sun at Chicago Sky,Connecticut Sun,88,Chicago Sky,94,Wintrust Arena,7297,False
+401857101,2026-07-31,New York Liberty at Las Vegas Aces,New York Liberty,99,Las Vegas Aces,104,Michelob ULTRA Arena,10500,False
+401857102,2026-07-31,Seattle Storm at Atlanta Dream,Seattle Storm,89,Atlanta Dream,98,Gateway Center,3610,False
+401857103,2026-07-31,Dallas Wings at Washington Mystics,Dallas Wings,75,Washington Mystics,81,CareFirst Arena,4200,False
+401857104,2026-08-01,Indiana Fever at Portland Fire,Indiana Fever,112,Portland Fire,98,Moda Center,19959,False
+401857105,2026-08-01,Las Vegas Aces at Chicago Sky,Las Vegas Aces,83,Chicago Sky,84,Wintrust Arena,9025,False
+401857106,2026-08-01,New York Liberty at Phoenix Mercury,New York Liberty,94,Phoenix Mercury,92,Mortgage Matchup Center,10097,False
+401857107,2026-08-02,Indiana Fever at Minnesota Lynx,Indiana Fever,100,Minnesota Lynx,108,Target Center,16505,False
+401857108,2026-08-02,Los Angeles Sparks at Portland Fire,Los Angeles Sparks,106,Portland Fire,101,Moda Center,13638,False
+401857109,2026-08-02,Connecticut Sun at Dallas Wings,Connecticut Sun,63,Dallas Wings,83,College Park Center,6251,False
+401857110,2026-08-03,Toronto Tempo at Golden State Valkyries,Toronto Tempo,79,Golden State Valkyries,96,Chase Center,18064,False
+401857111,2026-08-03,Las Vegas Aces at Atlanta Dream,Las Vegas Aces,109,Atlanta Dream,87,State Farm Arena,17044,False
+401857112,2026-08-03,Seattle Storm at New York Liberty,Seattle Storm,83,New York Liberty,95,Barclays Center,15312,False
+401857113,2026-08-04,Phoenix Mercury at Chicago Sky,Phoenix Mercury,106,Chicago Sky,101,Wintrust Arena,7011,False
+401857114,2026-08-05,Toronto Tempo at Golden State Valkyries,Toronto Tempo,81,Golden State Valkyries,92,Chase Center,18064,False
+401857115,2026-08-05,Phoenix Mercury at Atlanta Dream,Phoenix Mercury,82,Atlanta Dream,96,Gateway Center,3575,False
+401857116,2026-08-05,Seattle Storm at New York Liberty,Seattle Storm,86,New York Liberty,92,Barclays Center,16971,False
+401857117,2026-08-05,Dallas Wings at Washington Mystics,Dallas Wings,92,Washington Mystics,96,CareFirst Arena,4200,False
+401857118,2026-08-06,Los Angeles Sparks at Chicago Sky,Los Angeles Sparks,88,Chicago Sky,95,Wintrust Arena,7129,False
+401857119,2026-08-06,Las Vegas Aces at Indiana Fever,Las Vegas Aces,86,Indiana Fever,84,Gainbridge Fieldhouse,17274,True
+401857120,2026-08-07,Los Angeles Sparks at Minnesota Lynx,Los Angeles Sparks,89,Minnesota Lynx,82,Target Center,12824,False
+401857121,2026-08-07,Toronto Tempo at Portland Fire,Toronto Tempo,83,Portland Fire,97,Moda Center,12379,False
+401857122,2026-08-07,Phoenix Mercury at Connecticut Sun,Phoenix Mercury,72,Connecticut Sun,75,Mohegan Sun Arena,8910,False
+401857123,2026-08-07,Atlanta Dream at Washington Mystics,Atlanta Dream,74,Washington Mystics,79,CareFirst Arena,4200,False
+401857124,2026-08-08,Golden State Valkyries at Dallas Wings,Golden State Valkyries,94,Dallas Wings,76,American Airlines Center,16444,False
+401857125,2026-08-08,Las Vegas Aces at Minnesota Lynx,Las Vegas Aces,87,Minnesota Lynx,98,Target Center,14101,False
+401857126,2026-08-08,Indiana Fever at Chicago Sky,Indiana Fever,90,Chicago Sky,86,United Center,16065,False
+401857127,2026-08-09,Seattle Storm at Portland Fire,Seattle Storm,93,Portland Fire,100,Moda Center,15294,False
+401857128,2026-08-09,Las Vegas Aces at New York Liberty,Las Vegas Aces,71,New York Liberty,111,Barclays Center,17082,False
+401857129,2026-08-09,Phoenix Mercury at Washington Mystics,Phoenix Mercury,75,Washington Mystics,95,CareFirst Arena,4200,False
+401857130,2026-08-09,Dallas Wings at Minnesota Lynx,Dallas Wings,90,Minnesota Lynx,103,Target Center,14421,False
+401857131,2026-08-09,Golden State Valkyries at Los Angeles Sparks,Golden State Valkyries,84,Los Angeles Sparks,78,crypto.com Arena,15739,False
+401857132,2026-08-11,Toronto Tempo at Atlanta Dream,Toronto Tempo,95,Atlanta Dream,107,Gateway Center,3575,False
+401857133,2026-08-11,Chicago Sky at Seattle Storm,Chicago Sky,88,Seattle Storm,97,Climate Pledge Arena,11655,False
+401857134,2026-08-11,New York Liberty at Indiana Fever,New York Liberty,92,Indiana Fever,106,Gainbridge Fieldhouse,16507,False
+401857135,2026-08-12,Washington Mystics at Las Vegas Aces,Washington Mystics,76,Las Vegas Aces,86,Michelob ULTRA Arena,10224,False
+401857136,2026-08-12,Phoenix Mercury at Los Angeles Sparks,Phoenix Mercury,94,Los Angeles Sparks,87,Galen Center,6247,False
+401857137,2026-08-13,Toronto Tempo at Dallas Wings,Toronto Tempo,88,Dallas Wings,94,College Park Center,6251,False
+401857138,2026-08-13,Chicago Sky at Golden State Valkyries,Chicago Sky,71,Golden State Valkyries,91,Chase Center,18064,False
+401857139,2026-08-13,Minnesota Lynx at Portland Fire,Minnesota Lynx,85,Portland Fire,81,Moda Center,13270,False
+401857140,2026-08-13,Atlanta Dream at Connecticut Sun,Atlanta Dream,104,Connecticut Sun,69,Mohegan Sun Arena,8911,False
+401857141,2026-08-14,Los Angeles Sparks at New York Liberty,Los Angeles Sparks,81,New York Liberty,85,Barclays Center,16071,False
+401857142,2026-08-14,Washington Mystics at Las Vegas Aces,Washington Mystics,76,Las Vegas Aces,83,Michelob ULTRA Arena,10215,False
+401857143,2026-08-14,Dallas Wings at Indiana Fever,Dallas Wings,87,Indiana Fever,98,Gainbridge Fieldhouse,17274,False
+401857144,2026-08-15,Portland Fire at Seattle Storm,Portland Fire,84,Seattle Storm,82,Climate Pledge Arena,12596,False
+401857145,2026-08-15,New York Liberty at Connecticut Sun,New York Liberty,82,Connecticut Sun,75,Mohegan Sun Arena,8911,False
+401857146,2026-08-15,Los Angeles Sparks at Washington Mystics,Los Angeles Sparks,70,Washington Mystics,80,CareFirst Arena,4200,False
+401857147,2026-08-16,Minnesota Lynx at Las Vegas Aces,Minnesota Lynx,92,Las Vegas Aces,87,Michelob ULTRA Arena,10415,False
+401857148,2026-08-16,Chicago Sky at Seattle Storm,Chicago Sky,82,Seattle Storm,80,Climate Pledge Arena,12916,False
+401857149,2026-08-16,Portland Fire at Phoenix Mercury,Portland Fire,88,Phoenix Mercury,85,Mortgage Matchup Center,16513,False
+401857150,2026-08-16,Indiana Fever at Atlanta Dream,Indiana Fever,95,Atlanta Dream,91,State Farm Arena,17044,True
+401857151,2026-08-18,Dallas Wings at Golden State Valkyries,Dallas Wings,70,Golden State Valkyries,78,Chase Center,18064,False
+401857152,2026-08-18,Los Angeles Sparks at Connecticut Sun,Los Angeles Sparks,77,Connecticut Sun,85,TD Garden,16378,False
+401857153,2026-08-18,Indiana Fever at Toronto Tempo,Indiana Fever,101,Toronto Tempo,95,Scotiabank Arena,19300,False
+401857154,2026-08-19,New York Liberty at Chicago Sky,New York Liberty,86,Chicago Sky,93,Wintrust Arena,7099,False
+401857155,2026-08-19,Atlanta Dream at Las Vegas Aces,Atlanta Dream,97,Las Vegas Aces,82,Michelob ULTRA Arena,10219,False
+401857156,2026-08-19,Toronto Tempo at Washington Mystics,Toronto Tempo,82,Washington Mystics,93,CareFirst Arena,4200,False
+401857157,2026-08-20,Minnesota Lynx at Golden State Valkyries,Minnesota Lynx,77,Golden State Valkyries,66,Chase Center,18064,False
+401857158,2026-08-21,Indiana Fever at Dallas Wings,Indiana Fever,85,Dallas Wings,91,American Airlines Center,20297,False
+401857159,2026-08-21,Connecticut Sun at Las Vegas Aces,Connecticut Sun,78,Las Vegas Aces,101,Michelob ULTRA Arena,10207,False
+401857160,2026-08-21,Atlanta Dream at Los Angeles Sparks,Atlanta Dream,124,Los Angeles Sparks,88,crypto.com Arena,12223,False
+401857161,2026-08-21,Minnesota Lynx at Washington Mystics,Minnesota Lynx,94,Washington Mystics,84,CareFirst Arena,4200,False
+401857162,2026-08-21,Golden State Valkyries at Chicago Sky,Golden State Valkyries,70,Chicago Sky,73,Wintrust Arena,8028,False
+401857163,2026-08-22,Portland Fire at Toronto Tempo,Portland Fire,79,Toronto Tempo,82,Rogers Arena,12414,False
+401857164,2026-08-22,Indiana Fever at New York Liberty,Indiana Fever,102,New York Liberty,109,Barclays Center,17581,False
+401857165,2026-08-23,Connecticut Sun at Los Angeles Sparks,Connecticut Sun,68,Los Angeles Sparks,77,crypto.com Arena,10878,False
+401857166,2026-08-23,Atlanta Dream at Phoenix Mercury,Atlanta Dream,99,Phoenix Mercury,89,Mortgage Matchup Center,12431,False
+401857167,2026-08-23,Seattle Storm at Dallas Wings,Seattle Storm,70,Dallas Wings,92,College Park Center,6251,False
+401857168,2026-08-23,Indiana Fever at Chicago Sky,Indiana Fever,113,Chicago Sky,90,Wintrust Arena,9248,False
+401857169,2026-08-23,Washington Mystics at Portland Fire,Washington Mystics,105,Portland Fire,100,Moda Center,14860,False
+401857170,2026-08-23,Las Vegas Aces at Toronto Tempo,Las Vegas Aces,88,Toronto Tempo,78,Rogers Arena,15877,False
+401857171,2026-08-25,Golden State Valkyries at Minnesota Lynx,Golden State Valkyries,80,Minnesota Lynx,66,Target Center,16001,False
+401857172,2026-08-25,Atlanta Dream at Los Angeles Sparks,Atlanta Dream,78,Los Angeles Sparks,71,crypto.com Arena,10442,False
+401857173,2026-08-25,Chicago Sky at Connecticut Sun,Chicago Sky,81,Connecticut Sun,87,Mohegan Sun Arena,8048,False
+401857174,2026-08-26,Portland Fire at Dallas Wings,Portland Fire,78,Dallas Wings,96,College Park Center,6251,False
+401857175,2026-08-26,Washington Mystics at Phoenix Mercury,Washington Mystics,94,Phoenix Mercury,84,Mortgage Matchup Center,10459,False
+401857176,2026-08-26,Golden State Valkyries at Connecticut Sun,Golden State Valkyries,89,Connecticut Sun,64,Mohegan Sun Arena,7739,False
+401857177,2026-08-27,Toronto Tempo at Seattle Storm,Toronto Tempo,78,Seattle Storm,90,Climate Pledge Arena,11558,False
+401857178,2026-08-28,Golden State Valkyries at New York Liberty,Golden State Valkyries,79,New York Liberty,60,Barclays Center,17579,False
+401857179,2026-08-28,Washington Mystics at Phoenix Mercury,Washington Mystics,80,Phoenix Mercury,73,Mortgage Matchup Center,9040,False
+401857180,2026-08-28,Portland Fire at Atlanta Dream,Portland Fire,101,Atlanta Dream,83,Gateway Center,3575,False
+401857181,2026-08-28,Connecticut Sun at Indiana Fever,Connecticut Sun,91,Indiana Fever,111,Gainbridge Fieldhouse,17274,False
+401857182,2026-08-29,Toronto Tempo at Las Vegas Aces,Toronto Tempo,73,Las Vegas Aces,93,Michelob ULTRA Arena,10523,False
+401857183,2026-08-29,Washington Mystics at Los Angeles Sparks,Washington Mystics,82,Los Angeles Sparks,88,crypto.com Arena,12551,False
+401857184,2026-08-29,Chicago Sky at New York Liberty,Chicago Sky,66,New York Liberty,85,Barclays Center,17107,False
+401857185,2026-08-30,Toronto Tempo at Phoenix Mercury,Toronto Tempo,69,Phoenix Mercury,101,Mortgage Matchup Center,11699,False
+401857186,2026-08-30,Minnesota Lynx at Atlanta Dream,Minnesota Lynx,81,Atlanta Dream,89,Gateway Center,3614,False
+401857187,2026-08-30,Los Angeles Sparks at Seattle Storm,Los Angeles Sparks,90,Seattle Storm,74,Climate Pledge Arena,14200,False
+401857188,2026-08-30,Golden State Valkyries at Portland Fire,Golden State Valkyries,86,Portland Fire,69,Moda Center,15146,False
+401857189,2026-08-31,Connecticut Sun at Dallas Wings,Connecticut Sun,71,Dallas Wings,97,College Park Center,6251,False
+401857190,2026-09-17,Connecticut Sun at Atlanta Dream,Connecticut Sun,59,Atlanta Dream,103,Gateway Center,3575,False
+401857191,2026-09-18,Washington Mystics at Chicago Sky,Washington Mystics,110,Chicago Sky,80,Wintrust Arena,8945,False
+401857192,2026-09-18,Los Angeles Sparks at Dallas Wings,Los Angeles Sparks,77,Dallas Wings,97,College Park Center,6251,False
+401857193,2026-09-18,Phoenix Mercury at Portland Fire,Phoenix Mercury,94,Portland Fire,91,Moda Center,13641,False
+401857194,2026-09-18,Las Vegas Aces at Seattle Storm,Las Vegas Aces,114,Seattle Storm,77,Climate Pledge Arena,14200,False
+401857195,2026-09-18,Indiana Fever at Toronto Tempo,Indiana Fever,103,Toronto Tempo,85,Coca-Cola Coliseum,8210,False
+401857196,2026-09-18,New York Liberty at Minnesota Lynx,New York Liberty,93,Minnesota Lynx,81,Target Center,15710,False
+401857197,2026-09-19,Portland Fire at Golden State Valkyries,Portland Fire,66,Golden State Valkyries,82,Chase Center,18064,False
+401857198,2026-09-19,Phoenix Mercury at Dallas Wings,Phoenix Mercury,82,Dallas Wings,87,College Park Center,6251,False
+401857199,2026-09-19,Chicago Sky at Atlanta Dream,Chicago Sky,81,Atlanta Dream,106,State Farm Arena,17099,False
+401857200,2026-09-20,Seattle Storm at Golden State Valkyries,Seattle Storm,57,Golden State Valkyries,70,Chase Center,18064,False
+401857201,2026-09-20,Minnesota Lynx at Connecticut Sun,Minnesota Lynx,101,Connecticut Sun,89,Mohegan Sun Arena,8911,False
+401857202,2026-09-20,New York Liberty at Toronto Tempo,New York Liberty,106,Toronto Tempo,69,Coca-Cola Coliseum,8210,False
+401857203,2026-09-20,Washington Mystics at Indiana Fever,Washington Mystics,93,Indiana Fever,77,Gainbridge Fieldhouse,17274,False
+401857204,2026-09-20,Portland Fire at Los Angeles Sparks,Portland Fire,84,Los Angeles Sparks,105,crypto.com Arena,17703,False
+401857205,2026-09-21,Seattle Storm at Las Vegas Aces,Seattle Storm,77,Las Vegas Aces,98,Michelob ULTRA Arena,10263,False
+401857206,2026-09-22,Atlanta Dream at New York Liberty,Atlanta Dream,95,New York Liberty,84,Barclays Center,16458,False
+401857207,2026-09-22,Dallas Wings at Phoenix Mercury,Dallas Wings,86,Phoenix Mercury,87,Mortgage Matchup Center,11941,False
+401857208,2026-09-22,Connecticut Sun at Washington Mystics,Connecticut Sun,69,Washington Mystics,79,CareFirst Arena,4200,False
+401857209,2026-09-23,Minnesota Lynx at Indiana Fever,Minnesota Lynx,77,Indiana Fever,96,Gainbridge Fieldhouse,16521,False
+401857210,2026-09-23,Toronto Tempo at Chicago Sky,Toronto Tempo,85,Chicago Sky,97,Wintrust Arena,8036,False
+401857211,2026-09-23,Los Angeles Sparks at Las Vegas Aces,Los Angeles Sparks,79,Las Vegas Aces,89,Michelob ULTRA Arena,10377,False
+401857212,2026-09-23,Golden State Valkyries at Portland Fire,Golden State Valkyries,82,Portland Fire,90,Moda Center,14815,True
+401857213,2026-09-24,Atlanta Dream at New York Liberty,Atlanta Dream,83,New York Liberty,65,Barclays Center,17581,False
+401857214,2026-09-24,Dallas Wings at Seattle Storm,Dallas Wings,103,Seattle Storm,91,Climate Pledge Arena,14200,False
+401857215,2026-09-24,Toronto Tempo at Connecticut Sun,Toronto Tempo,81,Connecticut Sun,95,Mohegan Sun Arena,8911,False
+401857216,2026-09-24,Chicago Sky at Washington Mystics,Chicago Sky,93,Washington Mystics,101,Capital One Arena,9798,False
+401857217,2026-09-25,Indiana Fever at Minnesota Lynx,Indiana Fever,66,Minnesota Lynx,86,Target Center,15221,False
+401857218,2026-09-25,Golden State Valkyries at Los Angeles Sparks,Golden State Valkyries,76,Los Angeles Sparks,75,crypto.com Arena,15965,False
+401857219,2026-09-25,Las Vegas Aces at Phoenix Mercury,Las Vegas Aces,100,Phoenix Mercury,82,Mortgage Matchup Center,12385,False
