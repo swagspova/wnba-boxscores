@@ -1,0 +1,4 @@
+WNBA/
+*.xlsx
+__pycache__/
+.DS_Store
