@@ -1,19 +1,20 @@
 #!/usr/bin/env python3
 """
 Extract every WNBA 2026 regular-season box score from ESPN's public API
-and consolidate it into a single Excel workbook.
+and write it to CSV files.
 
 Output sheets:
   - Games         : one row per game (date, teams, score, venue, attendance)
   - Player Stats  : one row per player per game
   - Team Stats    : one row per team per game
 
-Install:  pip install requests pandas openpyxl
+Install:  pip install requests pandas
 Run:      python wnba_boxscores_2026.py
-          python wnba_boxscores_2026.py --season 2026 --out wnba_2026_boxscores.xlsx
+          python wnba_boxscores_2026.py --season 2026 --out-dir wnba_2026_csv
 """
 
 import argparse
+import os
 import re
 import sys
 import time
@@ -196,7 +197,7 @@ def parse_game(event_id, scoreboard_event):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--season", type=int, default=2026)
-    ap.add_argument("--out", default="wnba_2026_boxscores.xlsx")
+    ap.add_argument("--out-dir", default="wnba_2026_csv")
     ap.add_argument("--workers", type=int, default=6)
     args = ap.parse_args()
 
@@ -228,18 +229,17 @@ def main():
     players_df = pd.DataFrame(players).sort_values(["Date", "GameID", "Team"], kind="stable")
     teams_df = pd.DataFrame(teams).sort_values(["Date", "GameID"], kind="stable")
 
-    with pd.ExcelWriter(args.out, engine="openpyxl") as xw:
-        games_df.to_excel(xw, sheet_name="Games", index=False)
-        players_df.to_excel(xw, sheet_name="Player Stats", index=False)
-        teams_df.to_excel(xw, sheet_name="Team Stats", index=False)
-        for ws in xw.book.worksheets:
-            ws.freeze_panes = "A2"
-            ws.auto_filter.ref = ws.dimensions
-            for col in ws.columns:
-                width = max(len(str(c.value)) if c.value is not None else 0 for c in col[:200])
-                ws.column_dimensions[col[0].column_letter].width = min(max(width + 2, 8), 32)
+    os.makedirs(args.out_dir, exist_ok=True)
+    paths = {
+        "games.csv": games_df,
+        "player_stats.csv": players_df,
+        "team_stats.csv": teams_df,
+    }
+    for name, df in paths.items():
+        # utf-8-sig so Excel opens accented names correctly
+        df.to_csv(os.path.join(args.out_dir, name), index=False, encoding="utf-8-sig")
 
-    print(f"\nSaved {args.out}: {len(games_df)} games, "
+    print(f"\nSaved to {args.out_dir}/: {len(games_df)} games, "
           f"{len(players_df)} player rows, {len(teams_df)} team rows")
     if failed:
         print(f"Failed games ({len(failed)}): {failed}")
