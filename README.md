@@ -1,10 +1,10 @@
-# WNBA Box Scores 2026
+# WNBA Box Scores (2025 & 2026)
 
-Python script that pulls every completed **2026 WNBA regular-season** game from ESPN's public API and saves the box scores as CSV files.
+Python scripts that pull every completed **WNBA regular-season** game from ESPN's public API and saves the box scores as CSV files. There is one script per season: `wnba_boxscores_2025.py` and `wnba_boxscores_2026.py`.
 
 ## What it produces
 
-Running the script creates a `wnba_2026_csv/` folder with three files:
+For each season, the script writes three CSV files:
 
 | File | Contents |
 |------|----------|
@@ -26,8 +26,14 @@ pip install requests pandas
 
 ## Usage
 
+Run the script for each season:
+
 ```bash
-python Code/wnba_boxscores_2026.py
+# 2026 season
+python Code/wnba_boxscores_2026.py --season 2026 --out-dir wnba_2026_csv
+
+# 2025 season
+python Code/wnba_boxscores_2025.py --season 2025 --out-dir wnba_2025_csv
 ```
 
 Options:
@@ -38,15 +44,24 @@ Options:
 | `--out-dir` | `wnba_2026_csv` | Folder for the CSV files |
 | `--workers` | `6` | Number of parallel requests |
 
-Example:
+Use a different `--out-dir` for each season, otherwise the second run overwrites the first.
 
-```bash
-python Code/wnba_boxscores_2026.py --season 2026 --out-dir my_output --workers 4
+## Output layout
+
+```
+wnba_2025_csv/
+    games.csv
+    player_stats.csv
+    team_stats.csv
+wnba_2026_csv/
+    games.csv
+    player_stats.csv
+    team_stats.csv
 ```
 
 ## How it works
 
-1. **Schedule:** requests ESPN's scoreboard endpoint one day at a time (Apr 15 – Oct 31) and keeps only completed regular-season games.
+1. **Schedule:** requests ESPN's scoreboard endpoint one day at a time (Apr 15 – Oct 31 of the chosen season) and keeps only completed regular-season games. Preseason and playoff games are excluded.
 2. **Box scores:** requests ESPN's summary endpoint for each game and parses game, player and team stats.
 3. **Output:** writes the three CSV files. Games that fail to download are skipped and their IDs are printed at the end.
 
