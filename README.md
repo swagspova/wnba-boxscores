@@ -1,6 +1,24 @@
-# WNBA Box Scores (2025 & 2026)
+# WNBA Box Scores (2024, 2025 & 2026)
 
-Python scripts that pull every completed **WNBA regular-season** game from ESPN's public API and saves the box scores as CSV files. There is one script per season: `wnba_boxscores_2025.py` and `wnba_boxscores_2026.py`.
+Python scripts that pull every completed **WNBA regular-season** game from ESPN's public API and save the box scores as CSV files. There is one script per season, in the `Code/` folder.
+
+## Repository layout
+
+```
+Code/
+    wnba_boxscores_2024.py
+    wnba_boxscores_2025.py
+    wnba_boxscores_2026.py
+wnba_2024_csv/
+    games.csv
+    player_stats.csv
+    team_stats.csv
+wnba_2025_csv/
+    ...
+wnba_2026_csv/
+    ...
+README.md
+```
 
 ## What it produces
 
@@ -26,38 +44,21 @@ pip install requests pandas
 
 ## Usage
 
-Run the script for each season:
+Run the script for the season you want:
 
 ```bash
-# 2026 season
-python Code/wnba_boxscores_2026.py --season 2026 --out-dir wnba_2026_csv
-
-# 2025 season
+python Code/wnba_boxscores_2024.py --season 2024 --out-dir wnba_2024_csv
 python Code/wnba_boxscores_2025.py --season 2025 --out-dir wnba_2025_csv
+python Code/wnba_boxscores_2026.py --season 2026 --out-dir wnba_2026_csv
 ```
 
 Options:
 
-| Flag | Default | Description |
-|------|---------|-------------|
-| `--season` | `2026` | Season year to extract |
-| `--out-dir` | `wnba_2026_csv` | Folder for the CSV files |
-| `--workers` | `6` | Number of parallel requests |
-
-Use a different `--out-dir` for each season, otherwise the second run overwrites the first.
-
-## Output layout
-
-```
-wnba_2025_csv/
-    games.csv
-    player_stats.csv
-    team_stats.csv
-wnba_2026_csv/
-    games.csv
-    player_stats.csv
-    team_stats.csv
-```
+| Flag | Description |
+|------|-------------|
+| `--season` | Season year to extract |
+| `--out-dir` | Folder for the CSV files (use a different folder per season, or the next run overwrites the last) |
+| `--workers` | Number of parallel requests (default `6`) |
 
 ## How it works
 
