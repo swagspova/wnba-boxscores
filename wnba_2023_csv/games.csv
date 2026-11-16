@@ -1,0 +1,243 @@
+﻿GameID,Date,Name,Away,AwayScore,Home,HomeScore,Venue,Attendance,Overtime
+401507130,2023-05-19,Connecticut Sun at Indiana Fever,Connecticut Sun,70,Indiana Fever,61,Gainbridge Fieldhouse,7356,False
+401507131,2023-05-19,New York Liberty at Washington Mystics,New York Liberty,64,Washington Mystics,80,CareFirst Arena,4200,False
+401507132,2023-05-20,Chicago Sky at Minnesota Lynx,Chicago Sky,77,Minnesota Lynx,66,Target Center,8024,False
+401507133,2023-05-20,Phoenix Mercury at Los Angeles Sparks,Phoenix Mercury,71,Los Angeles Sparks,94,crypto.com Arena,10396,False
+401507134,2023-05-20,Las Vegas Aces at Seattle Storm,Las Vegas Aces,105,Seattle Storm,64,Climate Pledge Arena,11229,False
+401507135,2023-05-20,Atlanta Dream at Dallas Wings,Atlanta Dream,78,Dallas Wings,85,College Park Center,5588,False
+401507136,2023-05-21,Washington Mystics at Connecticut Sun,Washington Mystics,74,Connecticut Sun,80,Mohegan Sun Arena,7048,False
+401507137,2023-05-21,Indiana Fever at New York Liberty,Indiana Fever,73,New York Liberty,90,Barclays Center,8575,False
+401507138,2023-05-21,Chicago Sky at Phoenix Mercury,Chicago Sky,75,Phoenix Mercury,69,Mortgage Matchup Center,14040,False
+401507139,2023-05-23,Connecticut Sun at Washington Mystics,Connecticut Sun,88,Washington Mystics,81,CareFirst Arena,3383,False
+401507140,2023-05-24,Atlanta Dream at Minnesota Lynx,Atlanta Dream,83,Minnesota Lynx,77,Target Center,7803,False
+401507141,2023-05-26,Las Vegas Aces at Los Angeles Sparks,Las Vegas Aces,94,Los Angeles Sparks,85,crypto.com Arena,7314,False
+401507142,2023-05-26,Minnesota Lynx at Phoenix Mercury,Minnesota Lynx,81,Phoenix Mercury,90,Mortgage Matchup Center,6057,False
+401507143,2023-05-27,Washington Mystics at Chicago Sky,Washington Mystics,71,Chicago Sky,69,Wintrust Arena,7304,False
+401507144,2023-05-27,Dallas Wings at Seattle Storm,Dallas Wings,95,Seattle Storm,91,Climate Pledge Arena,8277,False
+401507145,2023-05-27,Connecticut Sun at New York Liberty,Connecticut Sun,65,New York Liberty,81,Barclays Center,7102,False
+401507146,2023-05-28,Los Angeles Sparks at Las Vegas Aces,Los Angeles Sparks,65,Las Vegas Aces,93,Michelob ULTRA Arena,10191,False
+401507147,2023-05-28,Indiana Fever at Atlanta Dream,Indiana Fever,90,Atlanta Dream,87,Gateway Center,3209,False
+401507148,2023-05-28,Dallas Wings at Chicago Sky,Dallas Wings,88,Chicago Sky,94,Wintrust Arena,6042,False
+401507149,2023-05-29,Minnesota Lynx at Las Vegas Aces,Minnesota Lynx,73,Las Vegas Aces,94,Michelob ULTRA Arena,7970,False
+401507150,2023-05-30,Chicago Sky at Atlanta Dream,Chicago Sky,65,Atlanta Dream,83,Gateway Center,2562,False
+401507151,2023-05-30,Indiana Fever at Connecticut Sun,Indiana Fever,78,Connecticut Sun,81,Mohegan Sun Arena,5317,False
+401507152,2023-05-31,Minnesota Lynx at Dallas Wings,Minnesota Lynx,89,Dallas Wings,94,College Park Center,3484,False
+401507153,2023-05-31,New York Liberty at Seattle Storm,New York Liberty,86,Seattle Storm,78,Climate Pledge Arena,8340,False
+401507154,2023-06-02,Connecticut Sun at Minnesota Lynx,Connecticut Sun,89,Minnesota Lynx,84,Target Center,8124,False
+401507155,2023-06-02,Dallas Wings at Washington Mystics,Dallas Wings,74,Washington Mystics,75,CareFirst Arena,3294,False
+401507157,2023-06-02,New York Liberty at Chicago Sky,New York Liberty,77,Chicago Sky,76,Wintrust Arena,7188,False
+401507156,2023-06-03,Las Vegas Aces at Atlanta Dream,Las Vegas Aces,92,Atlanta Dream,87,Gateway Center,3209,False
+401507158,2023-06-03,Los Angeles Sparks at Phoenix Mercury,Los Angeles Sparks,99,Phoenix Mercury,93,Mortgage Matchup Center,8815,True
+401507159,2023-06-03,Minnesota Lynx at Washington Mystics,Minnesota Lynx,80,Washington Mystics,78,CareFirst Arena,3534,False
+401507160,2023-06-04,Seattle Storm at Los Angeles Sparks,Seattle Storm,85,Los Angeles Sparks,92,crypto.com Arena,6866,False
+401507161,2023-06-04,Dallas Wings at Connecticut Sun,Dallas Wings,74,Connecticut Sun,80,Mohegan Sun Arena,5012,False
+401507162,2023-06-04,Chicago Sky at New York Liberty,Chicago Sky,86,New York Liberty,82,Barclays Center,7225,False
+401507163,2023-06-04,Las Vegas Aces at Indiana Fever,Las Vegas Aces,84,Indiana Fever,80,Gainbridge Fieldhouse,6131,False
+401507164,2023-06-06,Las Vegas Aces at Connecticut Sun,Las Vegas Aces,90,Connecticut Sun,84,Mohegan Sun Arena,4368,False
+401507165,2023-06-07,Indiana Fever at Chicago Sky,Indiana Fever,103,Chicago Sky,108,Wintrust Arena,5201,True
+401507166,2023-06-07,Los Angeles Sparks at Seattle Storm,Los Angeles Sparks,63,Seattle Storm,66,Climate Pledge Arena,7840,False
+401507168,2023-06-08,Phoenix Mercury at Dallas Wings,Phoenix Mercury,79,Dallas Wings,84,College Park Center,4242,False
+401507169,2023-06-08,Las Vegas Aces at Connecticut Sun,Las Vegas Aces,77,Connecticut Sun,94,Mohegan Sun Arena,5147,False
+401507170,2023-06-09,New York Liberty at Atlanta Dream,New York Liberty,106,Atlanta Dream,83,Gateway Center,3209,False
+401507171,2023-06-10,Phoenix Mercury at Dallas Wings,Phoenix Mercury,77,Dallas Wings,90,College Park Center,6251,False
+401507172,2023-06-10,Indiana Fever at Minnesota Lynx,Indiana Fever,71,Minnesota Lynx,69,Target Center,8510,False
+401507173,2023-06-10,Chicago Sky at Los Angeles Sparks,Chicago Sky,62,Los Angeles Sparks,77,crypto.com Arena,5431,False
+401507174,2023-06-10,Washington Mystics at Seattle Storm,Washington Mystics,73,Seattle Storm,66,Climate Pledge Arena,8397,False
+401507175,2023-06-11,Dallas Wings at New York Liberty,Dallas Wings,93,New York Liberty,102,Barclays Center,7615,False
+401507176,2023-06-11,Chicago Sky at Las Vegas Aces,Chicago Sky,80,Las Vegas Aces,93,Michelob ULTRA Arena,9786,False
+401507177,2023-06-11,Connecticut Sun at Atlanta Dream,Connecticut Sun,89,Atlanta Dream,77,Gateway Center,2690,False
+401507178,2023-06-11,Phoenix Mercury at Indiana Fever,Phoenix Mercury,85,Indiana Fever,82,Gainbridge Fieldhouse,5013,False
+401507179,2023-06-11,Washington Mystics at Seattle Storm,Washington Mystics,71,Seattle Storm,65,Climate Pledge Arena,13213,False
+401507180,2023-06-11,Los Angeles Sparks at Minnesota Lynx,Los Angeles Sparks,86,Minnesota Lynx,91,Target Center,8025,False
+401507181,2023-06-13,Washington Mystics at Indiana Fever,Washington Mystics,66,Indiana Fever,87,Gainbridge Fieldhouse,3005,False
+401507182,2023-06-14,Atlanta Dream at New York Liberty,Atlanta Dream,86,New York Liberty,79,Barclays Center,5719,False
+401507183,2023-06-14,Seattle Storm at Phoenix Mercury,Seattle Storm,83,Phoenix Mercury,69,Mortgage Matchup Center,7044,False
+401507184,2023-06-14,Los Angeles Sparks at Dallas Wings,Los Angeles Sparks,79,Dallas Wings,61,College Park Center,5807,False
+401507185,2023-06-15,Atlanta Dream at Connecticut Sun,Atlanta Dream,92,Connecticut Sun,88,Mohegan Sun Arena,4316,True
+401507186,2023-06-16,Indiana Fever at Chicago Sky,Indiana Fever,92,Chicago Sky,90,Wintrust Arena,6323,False
+401507187,2023-06-16,Seattle Storm at Las Vegas Aces,Seattle Storm,63,Las Vegas Aces,96,Michelob ULTRA Arena,8518,False
+401507188,2023-06-17,Phoenix Mercury at Washington Mystics,Phoenix Mercury,69,Washington Mystics,88,CareFirst Arena,4200,False
+401507189,2023-06-17,Minnesota Lynx at Los Angeles Sparks,Minnesota Lynx,77,Los Angeles Sparks,72,crypto.com Arena,5265,False
+401507190,2023-06-17,Seattle Storm at Dallas Wings,Seattle Storm,109,Dallas Wings,103,College Park Center,5020,False
+401507191,2023-06-18,Phoenix Mercury at New York Liberty,Phoenix Mercury,71,New York Liberty,89,Barclays Center,9278,False
+401507192,2023-06-18,Chicago Sky at Washington Mystics,Chicago Sky,69,Washington Mystics,77,CareFirst Arena,4009,False
+401507193,2023-06-18,Atlanta Dream at Indiana Fever,Atlanta Dream,100,Indiana Fever,94,Gainbridge Fieldhouse,4024,False
+401507194,2023-06-18,Connecticut Sun at Los Angeles Sparks,Connecticut Sun,83,Los Angeles Sparks,74,crypto.com Arena,6289,False
+401507195,2023-06-19,Minnesota Lynx at Las Vegas Aces,Minnesota Lynx,62,Las Vegas Aces,93,Michelob ULTRA Arena,8036,False
+401507196,2023-06-21,Atlanta Dream at Dallas Wings,Atlanta Dream,73,Dallas Wings,85,College Park Center,3392,False
+401507197,2023-06-21,Minnesota Lynx at Los Angeles Sparks,Minnesota Lynx,67,Los Angeles Sparks,61,crypto.com Arena,4180,False
+401507198,2023-06-21,Connecticut Sun at Seattle Storm,Connecticut Sun,85,Seattle Storm,79,Climate Pledge Arena,7022,False
+401507199,2023-06-21,Las Vegas Aces at Phoenix Mercury,Las Vegas Aces,99,Phoenix Mercury,79,Mortgage Matchup Center,11580,False
+401507200,2023-06-23,Washington Mystics at Chicago Sky,Washington Mystics,80,Chicago Sky,59,Wintrust Arena,6158,False
+401507201,2023-06-23,Connecticut Sun at Minnesota Lynx,Connecticut Sun,89,Minnesota Lynx,68,Target Center,7024,False
+401507202,2023-06-23,Indiana Fever at Seattle Storm,Indiana Fever,80,Seattle Storm,68,Climate Pledge Arena,7734,False
+401507203,2023-06-23,New York Liberty at Atlanta Dream,New York Liberty,110,Atlanta Dream,80,Gateway Center,3209,False
+401507204,2023-06-24,Dallas Wings at Los Angeles Sparks,Dallas Wings,74,Los Angeles Sparks,76,crypto.com Arena,5766,False
+401507205,2023-06-25,Indiana Fever at Las Vegas Aces,Indiana Fever,88,Las Vegas Aces,101,Michelob ULTRA Arena,8310,False
+401507206,2023-06-25,Phoenix Mercury at Seattle Storm,Phoenix Mercury,74,Seattle Storm,97,Climate Pledge Arena,9122,False
+401507207,2023-06-25,Chicago Sky at Connecticut Sun,Chicago Sky,72,Connecticut Sun,96,Mohegan Sun Arena,6517,False
+401507208,2023-06-25,Washington Mystics at New York Liberty,Washington Mystics,88,New York Liberty,89,Barclays Center,7285,True
+401507209,2023-06-25,Dallas Wings at Los Angeles Sparks,Dallas Wings,83,Los Angeles Sparks,93,crypto.com Arena,6380,False
+401507210,2023-06-27,Indiana Fever at Las Vegas Aces,Indiana Fever,80,Las Vegas Aces,88,Michelob ULTRA Arena,8143,False
+401507211,2023-06-27,New York Liberty at Connecticut Sun,New York Liberty,89,Connecticut Sun,81,Mohegan Sun Arena,7344,False
+401507212,2023-06-28,Seattle Storm at Minnesota Lynx,Seattle Storm,93,Minnesota Lynx,104,Target Center,7014,False
+401507213,2023-06-28,Dallas Wings at Phoenix Mercury,Dallas Wings,77,Phoenix Mercury,62,Mortgage Matchup Center,5652,False
+401507214,2023-06-28,Los Angeles Sparks at Chicago Sky,Los Angeles Sparks,63,Chicago Sky,80,Wintrust Arena,8810,False
+401507215,2023-06-28,Atlanta Dream at Washington Mystics,Atlanta Dream,86,Washington Mystics,109,CareFirst Arena,3624,False
+401507216,2023-06-30,New York Liberty at Las Vegas Aces,New York Liberty,81,Las Vegas Aces,98,Michelob ULTRA Arena,9587,False
+401507217,2023-06-30,Indiana Fever at Phoenix Mercury,Indiana Fever,63,Phoenix Mercury,85,Mortgage Matchup Center,9047,False
+401507218,2023-06-30,Minnesota Lynx at Seattle Storm,Minnesota Lynx,99,Seattle Storm,97,Climate Pledge Arena,6894,True
+401507219,2023-06-30,Washington Mystics at Atlanta Dream,Washington Mystics,89,Atlanta Dream,94,Gateway Center,3209,False
+401507220,2023-07-01,Los Angeles Sparks at Chicago Sky,Los Angeles Sparks,78,Chicago Sky,86,Wintrust Arena,7272,False
+401507221,2023-07-01,Connecticut Sun at Las Vegas Aces,Connecticut Sun,84,Las Vegas Aces,102,Michelob ULTRA Arena,8596,False
+401507222,2023-07-02,Minnesota Lynx at Phoenix Mercury,Minnesota Lynx,86,Phoenix Mercury,76,Mortgage Matchup Center,8777,False
+401507223,2023-07-02,Los Angeles Sparks at Atlanta Dream,Los Angeles Sparks,84,Atlanta Dream,112,Gateway Center,3209,False
+401507224,2023-07-02,Chicago Sky at Indiana Fever,Chicago Sky,89,Indiana Fever,87,Gainbridge Fieldhouse,4004,False
+401507225,2023-07-02,Washington Mystics at Dallas Wings,Washington Mystics,72,Dallas Wings,89,College Park Center,4544,False
+401507226,2023-07-02,New York Liberty at Seattle Storm,New York Liberty,81,Seattle Storm,66,Climate Pledge Arena,9110,False
+401507227,2023-07-05,Phoenix Mercury at New York Liberty,Phoenix Mercury,95,New York Liberty,99,Barclays Center,7151,False
+401507228,2023-07-06,Indiana Fever at Minnesota Lynx,Indiana Fever,83,Minnesota Lynx,90,Target Center,7624,False
+401507229,2023-07-06,Dallas Wings at Las Vegas Aces,Dallas Wings,82,Las Vegas Aces,89,Michelob ULTRA Arena,10177,False
+401507230,2023-07-06,Atlanta Dream at Los Angeles Sparks,Atlanta Dream,90,Los Angeles Sparks,79,crypto.com Arena,5912,False
+401507231,2023-07-06,Seattle Storm at Connecticut Sun,Seattle Storm,73,Connecticut Sun,93,Mohegan Sun Arena,5479,False
+401507232,2023-07-07,Indiana Fever at Washington Mystics,Indiana Fever,88,Washington Mystics,96,CareFirst Arena,4200,False
+401507233,2023-07-08,Atlanta Dream at Chicago Sky,Atlanta Dream,82,Chicago Sky,68,Wintrust Arena,7911,False
+401507234,2023-07-08,Las Vegas Aces at Dallas Wings,Las Vegas Aces,78,Dallas Wings,80,College Park Center,6251,False
+401507235,2023-07-08,Phoenix Mercury at Minnesota Lynx,Phoenix Mercury,64,Minnesota Lynx,75,Target Center,7714,False
+401507236,2023-07-08,Seattle Storm at New York Liberty,Seattle Storm,76,New York Liberty,80,Barclays Center,6789,False
+401507237,2023-07-09,Washington Mystics at Connecticut Sun,Washington Mystics,84,Connecticut Sun,92,Mohegan Sun Arena,6558,False
+401507238,2023-07-09,Dallas Wings at Indiana Fever,Dallas Wings,77,Indiana Fever,76,Gainbridge Fieldhouse,3612,False
+401507239,2023-07-09,Los Angeles Sparks at Phoenix Mercury,Los Angeles Sparks,72,Phoenix Mercury,78,Mortgage Matchup Center,9206,False
+401507240,2023-07-09,Las Vegas Aces at Minnesota Lynx,Las Vegas Aces,113,Minnesota Lynx,89,Target Center,7701,False
+401507241,2023-07-10,Atlanta Dream at Chicago Sky,Atlanta Dream,88,Chicago Sky,77,Wintrust Arena,7325,False
+401507242,2023-07-11,Seattle Storm at Washington Mystics,Seattle Storm,86,Washington Mystics,93,CareFirst Arena,3571,False
+401507243,2023-07-12,Phoenix Mercury at Las Vegas Aces,Phoenix Mercury,72,Las Vegas Aces,98,Michelob ULTRA Arena,10281,False
+401507244,2023-07-12,New York Liberty at Indiana Fever,New York Liberty,95,Indiana Fever,87,Gainbridge Fieldhouse,6123,True
+401507245,2023-07-12,Connecticut Sun at Chicago Sky,Connecticut Sun,84,Chicago Sky,72,Wintrust Arena,9025,False
+401507246,2023-07-12,Dallas Wings at Minnesota Lynx,Dallas Wings,107,Minnesota Lynx,67,Target Center,13531,False
+401507247,2023-07-12,Seattle Storm at Atlanta Dream,Seattle Storm,75,Atlanta Dream,85,Gateway Center,2546,False
+401507248,2023-07-13,Las Vegas Aces at Los Angeles Sparks,Las Vegas Aces,97,Los Angeles Sparks,78,crypto.com Arena,8085,False
+401558893,2023-07-16,Team Stewart TEAM STEWART at Team Wilson Team Wilson,TEAM STEWART,143,Team Wilson,127,Michelob ULTRA Arena,9472,False
+401507249,2023-07-18,Minnesota Lynx at Atlanta Dream,Minnesota Lynx,73,Atlanta Dream,82,Gateway Center,2394,False
+401507250,2023-07-19,Connecticut Sun at Phoenix Mercury,Connecticut Sun,66,Phoenix Mercury,72,Mortgage Matchup Center,7788,False
+401507251,2023-07-19,Indiana Fever at Washington Mystics,Indiana Fever,82,Washington Mystics,76,Capital One Arena,14406,False
+401507252,2023-07-19,Dallas Wings at New York Liberty,Dallas Wings,98,New York Liberty,88,Barclays Center,9012,False
+401507253,2023-07-20,Atlanta Dream at Connecticut Sun,Atlanta Dream,71,Connecticut Sun,82,Mohegan Sun Arena,8054,False
+401507254,2023-07-21,Los Angeles Sparks at Minnesota Lynx,Los Angeles Sparks,70,Minnesota Lynx,73,Target Center,7014,False
+401507255,2023-07-21,Chicago Sky at Phoenix Mercury,Chicago Sky,62,Phoenix Mercury,80,Mortgage Matchup Center,11292,False
+401507256,2023-07-21,Las Vegas Aces at Seattle Storm,Las Vegas Aces,79,Seattle Storm,63,Climate Pledge Arena,7873,False
+401507257,2023-07-21,New York Liberty at Washington Mystics,New York Liberty,96,Washington Mystics,87,CareFirst Arena,4200,False
+401507258,2023-07-22,Connecticut Sun at Atlanta Dream,Connecticut Sun,86,Atlanta Dream,78,Gateway Center,3209,False
+401507261,2023-07-22,Las Vegas Aces at Minnesota Lynx,Las Vegas Aces,98,Minnesota Lynx,81,Target Center,7801,False
+401507259,2023-07-23,Chicago Sky at Seattle Storm,Chicago Sky,90,Seattle Storm,75,Climate Pledge Arena,8655,False
+401507260,2023-07-23,Los Angeles Sparks at Dallas Wings,Los Angeles Sparks,84,Dallas Wings,98,College Park Center,5041,False
+401507262,2023-07-23,Indiana Fever at New York Liberty,Indiana Fever,83,New York Liberty,101,Barclays Center,7371,False
+401507263,2023-07-23,Phoenix Mercury at Washington Mystics,Phoenix Mercury,69,Washington Mystics,84,CareFirst Arena,4200,False
+401507264,2023-07-25,Phoenix Mercury at Atlanta Dream,Phoenix Mercury,65,Atlanta Dream,78,Gateway Center,3209,False
+401507265,2023-07-25,Seattle Storm at New York Liberty,Seattle Storm,82,New York Liberty,86,Barclays Center,6118,False
+401507266,2023-07-25,Las Vegas Aces at Chicago Sky,Las Vegas Aces,107,Chicago Sky,95,Wintrust Arena,9025,False
+401507267,2023-07-26,Connecticut Sun at Dallas Wings,Connecticut Sun,88,Dallas Wings,83,College Park Center,4222,False
+401507268,2023-07-26,Indiana Fever at Los Angeles Sparks,Indiana Fever,78,Los Angeles Sparks,79,crypto.com Arena,5565,False
+401507269,2023-07-27,Washington Mystics at Minnesota Lynx,Washington Mystics,92,Minnesota Lynx,97,Target Center,7024,False
+401507270,2023-07-27,Indiana Fever at Los Angeles Sparks,Indiana Fever,68,Los Angeles Sparks,81,crypto.com Arena,11970,False
+401507271,2023-07-27,Atlanta Dream at New York Liberty,Atlanta Dream,84,New York Liberty,95,Barclays Center,6206,False
+401507272,2023-07-29,Seattle Storm at Chicago Sky,Seattle Storm,83,Chicago Sky,74,Wintrust Arena,7213,False
+401507273,2023-07-29,Washington Mystics at Dallas Wings,Washington Mystics,62,Dallas Wings,90,College Park Center,4048,False
+401558197,2023-07-29,Minnesota Lynx at New York Liberty,Minnesota Lynx,88,New York Liberty,83,Barclays Center,6129,False
+401507274,2023-07-30,Minnesota Lynx at Connecticut Sun,Minnesota Lynx,87,Connecticut Sun,83,Mohegan Sun Arena,8275,False
+401507275,2023-07-30,Washington Mystics at Atlanta Dream,Washington Mystics,73,Atlanta Dream,80,Gateway Center,3209,False
+401507276,2023-07-30,Seattle Storm at Indiana Fever,Seattle Storm,85,Indiana Fever,62,Gainbridge Fieldhouse,5196,False
+401507277,2023-07-30,Phoenix Mercury at Chicago Sky,Phoenix Mercury,85,Chicago Sky,104,Wintrust Arena,8914,False
+401507278,2023-07-30,Dallas Wings at Las Vegas Aces,Dallas Wings,91,Las Vegas Aces,104,Michelob ULTRA Arena,10213,False
+401507279,2023-07-30,New York Liberty at Los Angeles Sparks,New York Liberty,87,Los Angeles Sparks,79,crypto.com Arena,8139,False
+401507280,2023-08-01,Minnesota Lynx at Connecticut Sun,Minnesota Lynx,69,Connecticut Sun,79,Mohegan Sun Arena,4894,False
+401507281,2023-08-01,Phoenix Mercury at Indiana Fever,Phoenix Mercury,71,Indiana Fever,72,Gainbridge Fieldhouse,3018,False
+401507282,2023-08-02,Atlanta Dream at Las Vegas Aces,Atlanta Dream,72,Las Vegas Aces,93,Michelob ULTRA Arena,8366,False
+401507283,2023-08-02,New York Liberty at Los Angeles Sparks,New York Liberty,76,Los Angeles Sparks,69,crypto.com Arena,6498,False
+401507284,2023-08-03,Dallas Wings at Seattle Storm,Dallas Wings,76,Seattle Storm,65,Climate Pledge Arena,7421,False
+401507285,2023-08-04,Atlanta Dream at Phoenix Mercury,Atlanta Dream,71,Phoenix Mercury,91,Mortgage Matchup Center,7564,False
+401507286,2023-08-04,Connecticut Sun at Indiana Fever,Connecticut Sun,88,Indiana Fever,72,Gainbridge Fieldhouse,3498,False
+401507287,2023-08-04,Los Angeles Sparks at Washington Mystics,Los Angeles Sparks,77,Washington Mystics,79,CareFirst Arena,3747,False
+401507288,2023-08-05,Chicago Sky at Dallas Wings,Chicago Sky,104,Dallas Wings,89,College Park Center,3762,False
+401507289,2023-08-05,New York Liberty at Minnesota Lynx,New York Liberty,76,Minnesota Lynx,66,Target Center,7631,False
+401507290,2023-08-06,Seattle Storm at Phoenix Mercury,Seattle Storm,97,Phoenix Mercury,91,Mortgage Matchup Center,9411,False
+401507291,2023-08-06,Indiana Fever at Atlanta Dream,Indiana Fever,73,Atlanta Dream,82,Gateway Center,3209,False
+401507292,2023-08-06,Las Vegas Aces at New York Liberty,Las Vegas Aces,61,New York Liberty,99,Barclays Center,11418,False
+401507293,2023-08-06,Los Angeles Sparks at Washington Mystics,Los Angeles Sparks,91,Washington Mystics,83,CareFirst Arena,4073,False
+401507294,2023-08-06,Chicago Sky at Dallas Wings,Chicago Sky,104,Dallas Wings,96,College Park Center,4057,False
+401507295,2023-08-08,Connecticut Sun at Seattle Storm,Connecticut Sun,81,Seattle Storm,69,Climate Pledge Arena,10212,False
+401507296,2023-08-08,Los Angeles Sparks at Indiana Fever,Los Angeles Sparks,87,Indiana Fever,80,Gainbridge Fieldhouse,3006,False
+401507297,2023-08-09,Minnesota Lynx at Chicago Sky,Minnesota Lynx,88,Chicago Sky,79,Wintrust Arena,5099,False
+401507298,2023-08-09,Las Vegas Aces at Dallas Wings,Las Vegas Aces,104,Dallas Wings,84,College Park Center,5193,False
+401507299,2023-08-09,Washington Mystics at Phoenix Mercury,Washington Mystics,72,Phoenix Mercury,91,Mortgage Matchup Center,6610,False
+401507300,2023-08-10,Minnesota Lynx at Indiana Fever,Minnesota Lynx,73,Indiana Fever,91,Gainbridge Fieldhouse,2551,False
+401507301,2023-08-11,Connecticut Sun at Phoenix Mercury,Connecticut Sun,84,Phoenix Mercury,90,Mortgage Matchup Center,7186,False
+401507302,2023-08-11,Atlanta Dream at Seattle Storm,Atlanta Dream,67,Seattle Storm,68,Climate Pledge Arena,7649,False
+401507303,2023-08-12,Chicago Sky at New York Liberty,Chicago Sky,73,New York Liberty,89,Barclays Center,8070,False
+401507304,2023-08-12,Washington Mystics at Las Vegas Aces,Washington Mystics,89,Las Vegas Aces,113,Michelob ULTRA Arena,9364,False
+401507305,2023-08-12,Atlanta Dream at Los Angeles Sparks,Atlanta Dream,74,Los Angeles Sparks,85,crypto.com Arena,7119,False
+401507306,2023-08-13,Connecticut Sun at Dallas Wings,Connecticut Sun,81,Dallas Wings,91,College Park Center,4179,False
+401507307,2023-08-13,Chicago Sky at Washington Mystics,Chicago Sky,76,Washington Mystics,83,CareFirst Arena,3796,False
+401507308,2023-08-13,Phoenix Mercury at Seattle Storm,Phoenix Mercury,71,Seattle Storm,81,Climate Pledge Arena,10107,False
+401507309,2023-08-13,New York Liberty at Indiana Fever,New York Liberty,100,Indiana Fever,89,Gainbridge Fieldhouse,5019,False
+401507310,2023-08-14,Atlanta Dream at Las Vegas Aces,Atlanta Dream,65,Las Vegas Aces,86,Michelob ULTRA Arena,8564,False
+401507376,2023-08-16,New York Liberty at Las Vegas Aces,New York Liberty,82,Las Vegas Aces,63,Michelob ULTRA Arena,8967,False
+401507311,2023-08-18,New York Liberty at Las Vegas Aces,New York Liberty,75,Las Vegas Aces,88,Michelob ULTRA Arena,9230,False
+401507312,2023-08-18,Dallas Wings at Connecticut Sun,Dallas Wings,95,Connecticut Sun,75,Mohegan Sun Arena,6584,False
+401507313,2023-08-18,Washington Mystics at Indiana Fever,Washington Mystics,83,Indiana Fever,79,Gainbridge Fieldhouse,3506,False
+401507314,2023-08-18,Chicago Sky at Atlanta Dream,Chicago Sky,67,Atlanta Dream,78,Gateway Center,2957,False
+401507315,2023-08-19,New York Liberty at Phoenix Mercury,New York Liberty,85,Phoenix Mercury,63,Mortgage Matchup Center,9652,False
+401507316,2023-08-19,Minnesota Lynx at Seattle Storm,Minnesota Lynx,78,Seattle Storm,70,Climate Pledge Arena,8865,False
+401507317,2023-08-19,Los Angeles Sparks at Las Vegas Aces,Los Angeles Sparks,78,Las Vegas Aces,72,Michelob ULTRA Arena,10348,False
+401507318,2023-08-20,Dallas Wings at Washington Mystics,Dallas Wings,97,Washington Mystics,84,CareFirst Arena,4200,False
+401507319,2023-08-20,Connecticut Sun at Chicago Sky,Connecticut Sun,79,Chicago Sky,73,Wintrust Arena,6901,False
+401507320,2023-08-20,Indiana Fever at Phoenix Mercury,Indiana Fever,83,Phoenix Mercury,73,Mortgage Matchup Center,11807,False
+401507321,2023-08-20,Seattle Storm at Minnesota Lynx,Seattle Storm,88,Minnesota Lynx,74,Target Center,6525,False
+401507322,2023-08-22,Las Vegas Aces at Atlanta Dream,Las Vegas Aces,112,Atlanta Dream,100,Gateway Center,3209,False
+401507323,2023-08-22,Connecticut Sun at Washington Mystics,Connecticut Sun,68,Washington Mystics,64,CareFirst Arena,3058,False
+401507324,2023-08-23,Seattle Storm at Chicago Sky,Seattle Storm,79,Chicago Sky,102,Wintrust Arena,4822,False
+401507325,2023-08-23,Dallas Wings at Minnesota Lynx,Dallas Wings,86,Minnesota Lynx,91,Target Center,6921,False
+401507326,2023-08-24,Phoenix Mercury at Los Angeles Sparks,Phoenix Mercury,62,Los Angeles Sparks,91,crypto.com Arena,3469,False
+401507327,2023-08-24,New York Liberty at Connecticut Sun,New York Liberty,95,Connecticut Sun,90,Mohegan Sun Arena,9168,True
+401507328,2023-08-24,Seattle Storm at Indiana Fever,Seattle Storm,86,Indiana Fever,90,Gainbridge Fieldhouse,2644,False
+401507329,2023-08-25,Las Vegas Aces at Chicago Sky,Las Vegas Aces,94,Chicago Sky,87,Wintrust Arena,8084,False
+401507330,2023-08-25,Minnesota Lynx at Dallas Wings,Minnesota Lynx,90,Dallas Wings,81,College Park Center,3931,False
+401507331,2023-08-26,Los Angeles Sparks at Atlanta Dream,Los Angeles Sparks,83,Atlanta Dream,78,Gateway Center,2957,False
+401507332,2023-08-26,Las Vegas Aces at Washington Mystics,Las Vegas Aces,62,Washington Mystics,78,CareFirst Arena,4200,False
+401507333,2023-08-27,New York Liberty at Minnesota Lynx,New York Liberty,111,Minnesota Lynx,76,Target Center,7101,False
+401507334,2023-08-27,Los Angeles Sparks at Connecticut Sun,Los Angeles Sparks,68,Connecticut Sun,83,Mohegan Sun Arena,6783,False
+401507335,2023-08-27,Atlanta Dream at Indiana Fever,Atlanta Dream,80,Indiana Fever,83,Gainbridge Fieldhouse,4034,False
+401507336,2023-08-27,Dallas Wings at Phoenix Mercury,Dallas Wings,77,Phoenix Mercury,74,Mortgage Matchup Center,12163,False
+401507337,2023-08-27,Chicago Sky at Seattle Storm,Chicago Sky,90,Seattle Storm,85,Climate Pledge Arena,9893,False
+401507338,2023-08-28,Las Vegas Aces at New York Liberty,Las Vegas Aces,85,New York Liberty,94,Barclays Center,11615,False
+401507339,2023-08-29,Phoenix Mercury at Atlanta Dream,Phoenix Mercury,76,Atlanta Dream,94,Gateway Center,2785,False
+401507340,2023-08-29,Minnesota Lynx at Washington Mystics,Minnesota Lynx,72,Washington Mystics,83,CareFirst Arena,3708,False
+401507341,2023-08-30,Chicago Sky at Los Angeles Sparks,Chicago Sky,76,Los Angeles Sparks,75,crypto.com Arena,6041,False
+401507342,2023-08-31,Phoenix Mercury at Connecticut Sun,Phoenix Mercury,74,Connecticut Sun,84,Mohegan Sun Arena,7794,False
+401507343,2023-09-01,Washington Mystics at Las Vegas Aces,Washington Mystics,75,Las Vegas Aces,84,Michelob ULTRA Arena,8619,False
+401507344,2023-09-01,Seattle Storm at Los Angeles Sparks,Seattle Storm,72,Los Angeles Sparks,61,crypto.com Arena,6101,False
+401507345,2023-09-01,Dallas Wings at Indiana Fever,Dallas Wings,110,Indiana Fever,100,Gainbridge Fieldhouse,3137,False
+401507346,2023-09-02,Connecticut Sun at New York Liberty,Connecticut Sun,58,New York Liberty,89,Barclays Center,8276,False
+401507347,2023-09-02,Atlanta Dream at Minnesota Lynx,Atlanta Dream,85,Minnesota Lynx,91,Target Center,7114,True
+401507348,2023-09-03,Seattle Storm at Las Vegas Aces,Seattle Storm,77,Las Vegas Aces,103,Michelob ULTRA Arena,9319,False
+401507349,2023-09-03,New York Liberty at Chicago Sky,New York Liberty,86,Chicago Sky,69,Wintrust Arena,8223,False
+401507350,2023-09-03,Indiana Fever at Dallas Wings,Indiana Fever,97,Dallas Wings,84,College Park Center,5058,True
+401507351,2023-09-03,Phoenix Mercury at Minnesota Lynx,Phoenix Mercury,73,Minnesota Lynx,86,Target Center,7314,False
+401507352,2023-09-03,Washington Mystics at Los Angeles Sparks,Washington Mystics,64,Los Angeles Sparks,72,crypto.com Arena,2550,False
+401507353,2023-09-05,Los Angeles Sparks at Connecticut Sun,Los Angeles Sparks,76,Connecticut Sun,90,Mohegan Sun Arena,4783,False
+401507354,2023-09-05,Chicago Sky at Indiana Fever,Chicago Sky,96,Indiana Fever,69,Gainbridge Fieldhouse,2450,False
+401507355,2023-09-06,New York Liberty at Dallas Wings,New York Liberty,94,Dallas Wings,93,College Park Center,4195,False
+401507356,2023-09-06,Washington Mystics at Phoenix Mercury,Washington Mystics,100,Phoenix Mercury,77,Mortgage Matchup Center,7038,False
+401507357,2023-09-06,Seattle Storm at Atlanta Dream,Seattle Storm,68,Atlanta Dream,79,Gateway Center,2731,False
+401507358,2023-09-07,Los Angeles Sparks at New York Liberty,Los Angeles Sparks,89,New York Liberty,96,Barclays Center,6275,False
+401507359,2023-09-08,Indiana Fever at Connecticut Sun,Indiana Fever,59,Connecticut Sun,76,Mohegan Sun Arena,5064,False
+401507360,2023-09-08,Atlanta Dream at Washington Mystics,Atlanta Dream,80,Washington Mystics,75,CareFirst Arena,4210,False
+401507361,2023-09-09,Minnesota Lynx at Chicago Sky,Minnesota Lynx,87,Chicago Sky,92,Wintrust Arena,7994,False
+401507362,2023-09-09,Seattle Storm at Dallas Wings,Seattle Storm,91,Dallas Wings,106,College Park Center,4546,False
+401507363,2023-09-09,Las Vegas Aces at Phoenix Mercury,Las Vegas Aces,94,Phoenix Mercury,73,Mortgage Matchup Center,13206,False
+401507364,2023-09-10,Dallas Wings at Atlanta Dream,Dallas Wings,94,Atlanta Dream,77,Gateway Center,3207,False
+401507365,2023-09-10,Chicago Sky at Connecticut Sun,Chicago Sky,102,Connecticut Sun,91,Mohegan Sun Arena,6377,True
+401507366,2023-09-10,Minnesota Lynx at Indiana Fever,Minnesota Lynx,72,Indiana Fever,87,Gainbridge Fieldhouse,4009,False
+401507367,2023-09-10,Washington Mystics at New York Liberty,Washington Mystics,90,New York Liberty,88,Barclays Center,8306,False
+401507368,2023-09-10,Phoenix Mercury at Las Vegas Aces,Phoenix Mercury,85,Las Vegas Aces,100,T-Mobile Arena,17406,False
+401507369,2023-09-10,Los Angeles Sparks at Seattle Storm,Los Angeles Sparks,91,Seattle Storm,89,Climate Pledge Arena,10728,False
