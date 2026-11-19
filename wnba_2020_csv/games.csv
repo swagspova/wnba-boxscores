@@ -1,0 +1,133 @@
+﻿GameID,Date,Name,Away,AwayScore,Home,HomeScore,Venue,Attendance,Overtime
+401230733,2020-07-25,Seattle Storm at New York Liberty,Seattle Storm,87,New York Liberty,71,IMG Academy,0,False
+401230734,2020-07-25,Los Angeles Sparks at Phoenix Mercury,Los Angeles Sparks,99,Phoenix Mercury,76,IMG Academy,0,False
+401230735,2020-07-25,Indiana Fever at Washington Mystics,Indiana Fever,76,Washington Mystics,101,IMG Academy,0,False
+401230461,2020-07-26,Connecticut Sun at Minnesota Lynx,Connecticut Sun,69,Minnesota Lynx,77,IMG Academy,0,False
+401230462,2020-07-26,Chicago Sky at Las Vegas Aces,Chicago Sky,88,Las Vegas Aces,86,IMG Academy,0,False
+401230463,2020-07-26,Dallas Wings at Atlanta Dream,Dallas Wings,95,Atlanta Dream,105,IMG Academy,0,False
+401230464,2020-07-28,Washington Mystics at Connecticut Sun,Washington Mystics,94,Connecticut Sun,89,IMG Academy,0,False
+401230465,2020-07-29,Los Angeles Sparks at Chicago Sky,Los Angeles Sparks,78,Chicago Sky,96,IMG Academy,203,False
+401230466,2020-07-29,Minnesota Lynx at Seattle Storm,Minnesota Lynx,66,Seattle Storm,90,IMG Academy,0,False
+401230467,2020-07-29,Phoenix Mercury at Indiana Fever,Phoenix Mercury,100,Indiana Fever,106,IMG Academy,0,False
+401230468,2020-07-30,New York Liberty at Dallas Wings,New York Liberty,80,Dallas Wings,93,IMG Academy,0,False
+401230469,2020-07-30,Atlanta Dream at Las Vegas Aces,Atlanta Dream,70,Las Vegas Aces,100,IMG Academy,0,False
+401230470,2020-07-30,Seattle Storm at Washington Mystics,Seattle Storm,71,Washington Mystics,89,IMG Academy,0,False
+401230471,2020-07-31,Chicago Sky at Minnesota Lynx,Chicago Sky,81,Minnesota Lynx,83,IMG Academy,0,False
+401230472,2020-07-31,Connecticut Sun at Los Angeles Sparks,Connecticut Sun,76,Los Angeles Sparks,81,IMG Academy,0,False
+401230753,2020-07-31,New York Liberty at Atlanta Dream,New York Liberty,78,Atlanta Dream,84,IMG Academy,0,False
+401230754,2020-08-01,Indiana Fever at Dallas Wings,Indiana Fever,73,Dallas Wings,76,IMG Academy,0,False
+401230755,2020-08-01,Las Vegas Aces at Phoenix Mercury,Las Vegas Aces,95,Phoenix Mercury,102,IMG Academy,0,False
+401230756,2020-08-01,Minnesota Lynx at Connecticut Sun,Minnesota Lynx,78,Connecticut Sun,69,IMG Academy,0,False
+401230757,2020-08-01,Washington Mystics at Chicago Sky,Washington Mystics,86,Chicago Sky,88,IMG Academy,0,False
+401230758,2020-08-02,Los Angeles Sparks at Seattle Storm,Los Angeles Sparks,75,Seattle Storm,81,IMG Academy,0,False
+401230759,2020-08-02,Phoenix Mercury at New York Liberty,Phoenix Mercury,96,New York Liberty,67,IMG Academy,0,False
+401230760,2020-08-02,Atlanta Dream at Indiana Fever,Atlanta Dream,77,Indiana Fever,93,IMG Academy,0,False
+401230761,2020-08-02,Dallas Wings at Las Vegas Aces,Dallas Wings,70,Las Vegas Aces,79,IMG Academy,0,False
+401230762,2020-08-04,Dallas Wings at Chicago Sky,Dallas Wings,79,Chicago Sky,82,IMG Academy,0,False
+401230763,2020-08-04,Phoenix Mercury at Atlanta Dream,Phoenix Mercury,81,Atlanta Dream,74,IMG Academy,0,False
+401230764,2020-08-05,Connecticut Sun at Seattle Storm,Connecticut Sun,74,Seattle Storm,87,IMG Academy,0,False
+401230765,2020-08-05,Minnesota Lynx at New York Liberty,Minnesota Lynx,92,New York Liberty,66,IMG Academy,0,False
+401230766,2020-08-06,Las Vegas Aces at Washington Mystics,Las Vegas Aces,83,Washington Mystics,77,IMG Academy,0,False
+401230767,2020-08-06,Indiana Fever at Los Angeles Sparks,Indiana Fever,75,Los Angeles Sparks,86,IMG Academy,0,False
+401230768,2020-08-06,Seattle Storm at Atlanta Dream,Seattle Storm,93,Atlanta Dream,92,IMG Academy,0,False
+401230769,2020-08-07,Connecticut Sun at Dallas Wings,Connecticut Sun,91,Dallas Wings,68,IMG Academy,0,False
+401230770,2020-08-07,Chicago Sky at Phoenix Mercury,Chicago Sky,86,Phoenix Mercury,96,IMG Academy,0,False
+401230771,2020-08-07,Indiana Fever at Minnesota Lynx,Indiana Fever,80,Minnesota Lynx,87,IMG Academy,0,False
+401230772,2020-08-07,New York Liberty at Washington Mystics,New York Liberty,74,Washington Mystics,66,IMG Academy,0,False
+401230773,2020-08-08,Los Angeles Sparks at Las Vegas Aces,Los Angeles Sparks,82,Las Vegas Aces,86,IMG Academy,0,False
+401230774,2020-08-08,Atlanta Dream at Dallas Wings,Atlanta Dream,75,Dallas Wings,85,IMG Academy,0,False
+401230775,2020-08-08,Phoenix Mercury at Seattle Storm,Phoenix Mercury,68,Seattle Storm,74,IMG Academy,0,False
+401230776,2020-08-08,Chicago Sky at Connecticut Sun,Chicago Sky,100,Connecticut Sun,93,IMG Academy,0,False
+401230777,2020-08-09,Las Vegas Aces at New York Liberty,Las Vegas Aces,78,New York Liberty,76,IMG Academy,0,False
+401230778,2020-08-09,Washington Mystics at Indiana Fever,Washington Mystics,84,Indiana Fever,91,IMG Academy,0,False
+401230779,2020-08-09,Minnesota Lynx at Los Angeles Sparks,Minnesota Lynx,81,Los Angeles Sparks,97,IMG Academy,0,False
+401230780,2020-08-10,Connecticut Sun at Atlanta Dream,Connecticut Sun,93,Atlanta Dream,82,IMG Academy,0,False
+401230781,2020-08-10,Phoenix Mercury at Dallas Wings,Phoenix Mercury,91,Dallas Wings,79,IMG Academy,0,False
+401230782,2020-08-11,Chicago Sky at Seattle Storm,Chicago Sky,71,Seattle Storm,89,IMG Academy,0,False
+401230784,2020-08-11,Las Vegas Aces at Indiana Fever,Las Vegas Aces,98,Indiana Fever,79,IMG Academy,0,False
+401230783,2020-08-12,Washington Mystics at Minnesota Lynx,Washington Mystics,48,Minnesota Lynx,68,IMG Academy,0,False
+401230785,2020-08-12,New York Liberty at Los Angeles Sparks,New York Liberty,78,Los Angeles Sparks,93,IMG Academy,0,False
+401230786,2020-08-12,Dallas Wings at Connecticut Sun,Dallas Wings,66,Connecticut Sun,70,IMG Academy,0,False
+401230787,2020-08-13,Phoenix Mercury at Chicago Sky,Phoenix Mercury,71,Chicago Sky,89,IMG Academy,0,False
+401230788,2020-08-13,Atlanta Dream at Seattle Storm,Atlanta Dream,63,Seattle Storm,100,IMG Academy,0,False
+401230789,2020-08-13,Indiana Fever at New York Liberty,Indiana Fever,86,New York Liberty,79,IMG Academy,0,False
+401230790,2020-08-13,Los Angeles Sparks at Washington Mystics,Los Angeles Sparks,81,Washington Mystics,64,IMG Academy,0,False
+401230791,2020-08-14,Minnesota Lynx at Las Vegas Aces,Minnesota Lynx,77,Las Vegas Aces,87,IMG Academy,0,False
+401230792,2020-08-14,Connecticut Sun at Chicago Sky,Connecticut Sun,77,Chicago Sky,74,IMG Academy,0,False
+401230793,2020-08-15,Seattle Storm at Dallas Wings,Seattle Storm,83,Dallas Wings,65,IMG Academy,0,False
+401230794,2020-08-15,Atlanta Dream at Phoenix Mercury,Atlanta Dream,80,Phoenix Mercury,96,IMG Academy,0,False
+401230795,2020-08-15,Los Angeles Sparks at Indiana Fever,Los Angeles Sparks,90,Indiana Fever,76,IMG Academy,0,False
+401230796,2020-08-15,New York Liberty at Minnesota Lynx,New York Liberty,64,Minnesota Lynx,94,IMG Academy,0,False
+401230797,2020-08-15,Washington Mystics at Las Vegas Aces,Washington Mystics,73,Las Vegas Aces,88,IMG Academy,0,False
+401230820,2020-08-16,Chicago Sky at Atlanta Dream,Chicago Sky,92,Atlanta Dream,67,IMG Academy,0,False
+401230821,2020-08-16,Seattle Storm at Connecticut Sun,Seattle Storm,95,Connecticut Sun,72,IMG Academy,0,False
+401230822,2020-08-16,Dallas Wings at Phoenix Mercury,Dallas Wings,95,Phoenix Mercury,89,IMG Academy,0,False
+401230823,2020-08-18,Indiana Fever at Connecticut Sun,Indiana Fever,62,Connecticut Sun,84,IMG Academy,0,False
+401230798,2020-08-19,Atlanta Dream at Washington Mystics,Atlanta Dream,91,Washington Mystics,98,IMG Academy,0,False
+401230824,2020-08-19,Las Vegas Aces at Chicago Sky,Las Vegas Aces,82,Chicago Sky,84,IMG Academy,0,False
+401230825,2020-08-19,New York Liberty at Seattle Storm,New York Liberty,64,Seattle Storm,105,IMG Academy,0,False
+401230799,2020-08-20,Chicago Sky at New York Liberty,Chicago Sky,101,New York Liberty,85,IMG Academy,0,False
+401230826,2020-08-20,Dallas Wings at Minnesota Lynx,Dallas Wings,84,Minnesota Lynx,91,IMG Academy,0,False
+401230827,2020-08-20,Phoenix Mercury at Los Angeles Sparks,Phoenix Mercury,74,Los Angeles Sparks,83,IMG Academy,0,False
+401230800,2020-08-21,Connecticut Sun at Las Vegas Aces,Connecticut Sun,78,Las Vegas Aces,99,IMG Academy,0,False
+401230828,2020-08-21,Seattle Storm at Indiana Fever,Seattle Storm,84,Indiana Fever,90,IMG Academy,0,False
+401230829,2020-08-21,Los Angeles Sparks at Atlanta Dream,Los Angeles Sparks,93,Atlanta Dream,85,IMG Academy,0,True
+401230801,2020-08-22,Seattle Storm at Las Vegas Aces,Seattle Storm,74,Las Vegas Aces,82,IMG Academy,0,False
+401230830,2020-08-22,Washington Mystics at Dallas Wings,Washington Mystics,92,Dallas Wings,101,IMG Academy,0,True
+401230831,2020-08-22,Minnesota Lynx at Phoenix Mercury,Minnesota Lynx,90,Phoenix Mercury,80,IMG Academy,0,False
+401230832,2020-08-22,Indiana Fever at Chicago Sky,Indiana Fever,76,Chicago Sky,87,IMG Academy,0,False
+401230833,2020-08-22,New York Liberty at Connecticut Sun,New York Liberty,65,Connecticut Sun,82,IMG Academy,0,False
+401230834,2020-08-23,Atlanta Dream at Minnesota Lynx,Atlanta Dream,78,Minnesota Lynx,75,IMG Academy,0,False
+401230835,2020-08-23,Dallas Wings at Los Angeles Sparks,Dallas Wings,81,Los Angeles Sparks,84,IMG Academy,0,False
+401230836,2020-08-24,Phoenix Mercury at Washington Mystics,Phoenix Mercury,88,Washington Mystics,87,IMG Academy,0,False
+401230837,2020-08-25,New York Liberty at Chicago Sky,New York Liberty,101,Chicago Sky,99,IMG Academy,0,False
+401230838,2020-08-26,Las Vegas Aces at Dallas Wings,Las Vegas Aces,96,Dallas Wings,92,IMG Academy,0,False
+401230839,2020-08-26,Indiana Fever at Seattle Storm,Indiana Fever,74,Seattle Storm,87,IMG Academy,0,False
+401230843,2020-08-28,Minnesota Lynx at Atlanta Dream,Minnesota Lynx,88,Atlanta Dream,79,IMG Academy,0,False
+401230805,2020-08-29,Dallas Wings at Indiana Fever,Dallas Wings,82,Indiana Fever,78,IMG Academy,0,False
+401230806,2020-08-29,Seattle Storm at Chicago Sky,Seattle Storm,88,Chicago Sky,74,IMG Academy,0,False
+401230807,2020-08-29,New York Liberty at Las Vegas Aces,New York Liberty,63,Las Vegas Aces,80,IMG Academy,0,False
+401230844,2020-08-29,Los Angeles Sparks at Connecticut Sun,Los Angeles Sparks,80,Connecticut Sun,76,IMG Academy,0,False
+401230845,2020-08-29,Washington Mystics at Phoenix Mercury,Washington Mystics,72,Phoenix Mercury,94,IMG Academy,0,False
+401230846,2020-08-30,Connecticut Sun at Washington Mystics,Connecticut Sun,76,Washington Mystics,63,IMG Academy,0,False
+401230847,2020-08-30,Phoenix Mercury at Minnesota Lynx,Phoenix Mercury,83,Minnesota Lynx,79,IMG Academy,0,False
+401230808,2020-08-31,Atlanta Dream at Los Angeles Sparks,Atlanta Dream,79,Los Angeles Sparks,84,IMG Academy,0,False
+401241306,2020-08-31,Chicago Sky at Indiana Fever,Chicago Sky,100,Indiana Fever,77,IMG Academy,0,False
+401230848,2020-09-01,Connecticut Sun at New York Liberty,Connecticut Sun,70,New York Liberty,65,IMG Academy,0,False
+401241307,2020-09-01,Los Angeles Sparks at Minnesota Lynx,Los Angeles Sparks,78,Minnesota Lynx,96,IMG Academy,0,False
+401230849,2020-09-02,Indiana Fever at Atlanta Dream,Indiana Fever,90,Atlanta Dream,102,IMG Academy,0,False
+401230850,2020-09-02,Phoenix Mercury at Las Vegas Aces,Phoenix Mercury,92,Las Vegas Aces,85,IMG Academy,0,False
+401230851,2020-09-02,Minnesota Lynx at Chicago Sky,Minnesota Lynx,86,Chicago Sky,83,IMG Academy,0,False
+401230809,2020-09-03,Los Angeles Sparks at Dallas Wings,Los Angeles Sparks,91,Dallas Wings,83,IMG Academy,0,False
+401230810,2020-09-03,Atlanta Dream at New York Liberty,Atlanta Dream,62,New York Liberty,56,IMG Academy,0,False
+401230852,2020-09-03,Washington Mystics at Seattle Storm,Washington Mystics,64,Seattle Storm,71,IMG Academy,0,False
+401230811,2020-09-04,Las Vegas Aces at Connecticut Sun,Las Vegas Aces,93,Connecticut Sun,78,IMG Academy,0,False
+401230812,2020-09-04,Indiana Fever at Phoenix Mercury,Indiana Fever,81,Phoenix Mercury,105,IMG Academy,0,False
+401230853,2020-09-04,Chicago Sky at Washington Mystics,Chicago Sky,69,Washington Mystics,79,IMG Academy,0,False
+401230813,2020-09-05,Seattle Storm at Los Angeles Sparks,Seattle Storm,90,Los Angeles Sparks,89,IMG Academy,0,False
+401230814,2020-09-05,Las Vegas Aces at Atlanta Dream,Las Vegas Aces,89,Atlanta Dream,79,IMG Academy,0,False
+401230854,2020-09-05,Minnesota Lynx at Dallas Wings,Minnesota Lynx,88,Dallas Wings,75,IMG Academy,0,False
+401230855,2020-09-05,Connecticut Sun at Indiana Fever,Connecticut Sun,96,Indiana Fever,77,IMG Academy,0,False
+401230815,2020-09-06,New York Liberty at Phoenix Mercury,New York Liberty,67,Phoenix Mercury,83,IMG Academy,0,False
+401230856,2020-09-06,Dallas Wings at Washington Mystics,Dallas Wings,101,Washington Mystics,94,IMG Academy,0,True
+401230857,2020-09-06,Seattle Storm at Minnesota Lynx,Seattle Storm,103,Minnesota Lynx,88,IMG Academy,0,False
+401230858,2020-09-07,Chicago Sky at Los Angeles Sparks,Chicago Sky,80,Los Angeles Sparks,86,IMG Academy,0,False
+401241308,2020-09-07,Connecticut Sun at Phoenix Mercury,Connecticut Sun,85,Phoenix Mercury,70,IMG Academy,0,False
+401230859,2020-09-08,Los Angeles Sparks at New York Liberty,Los Angeles Sparks,96,New York Liberty,70,IMG Academy,0,False
+401230860,2020-09-09,Minnesota Lynx at Washington Mystics,Minnesota Lynx,86,Washington Mystics,89,IMG Academy,0,False
+401230861,2020-09-09,Indiana Fever at Las Vegas Aces,Indiana Fever,86,Las Vegas Aces,92,IMG Academy,0,False
+401230862,2020-09-09,Phoenix Mercury at Connecticut Sun,Phoenix Mercury,100,Connecticut Sun,95,IMG Academy,0,True
+401230816,2020-09-10,Dallas Wings at Seattle Storm,Dallas Wings,95,Seattle Storm,107,IMG Academy,0,False
+401230863,2020-09-10,Atlanta Dream at Chicago Sky,Atlanta Dream,97,Chicago Sky,89,IMG Academy,0,False
+401230864,2020-09-10,New York Liberty at Indiana Fever,New York Liberty,75,Indiana Fever,85,IMG Academy,0,False
+401230865,2020-09-11,Las Vegas Aces at Minnesota Lynx,Las Vegas Aces,104,Minnesota Lynx,89,IMG Academy,0,False
+401230866,2020-09-11,Washington Mystics at Los Angeles Sparks,Washington Mystics,80,Los Angeles Sparks,72,IMG Academy,0,False
+401230867,2020-09-11,Atlanta Dream at Connecticut Sun,Atlanta Dream,82,Connecticut Sun,75,IMG Academy,0,False
+401230817,2020-09-12,Washington Mystics at New York Liberty,Washington Mystics,75,New York Liberty,58,IMG Academy,0,False
+401230818,2020-09-12,Minnesota Lynx at Indiana Fever,Minnesota Lynx,98,Indiana Fever,86,IMG Academy,0,False
+401230819,2020-09-12,Las Vegas Aces at Los Angeles Sparks,Las Vegas Aces,84,Los Angeles Sparks,70,IMG Academy,0,False
+401230868,2020-09-12,Chicago Sky at Dallas Wings,Chicago Sky,95,Dallas Wings,88,IMG Academy,0,False
+401230869,2020-09-12,Seattle Storm at Phoenix Mercury,Seattle Storm,83,Phoenix Mercury,60,IMG Academy,0,False
+401241309,2020-09-13,Dallas Wings at New York Liberty,Dallas Wings,82,New York Liberty,79,IMG Academy,0,False
+401241310,2020-09-13,Las Vegas Aces at Seattle Storm,Las Vegas Aces,86,Seattle Storm,84,IMG Academy,0,False
+401241311,2020-09-13,Washington Mystics at Atlanta Dream,Washington Mystics,85,Atlanta Dream,78,IMG Academy,0,False
