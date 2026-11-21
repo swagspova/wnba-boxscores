@@ -1,0 +1,206 @@
+﻿GameID,Date,Name,Away,AwayScore,Home,HomeScore,Venue,Attendance,Overtime
+401018781,2018-05-19,Dallas Wings at Phoenix Mercury,Dallas Wings,78,Phoenix Mercury,86,Mortgage Matchup Center,11210,False
+401018782,2018-05-19,Chicago Sky at Indiana Fever,Chicago Sky,82,Indiana Fever,64,Gainbridge Fieldhouse,6565,False
+401018783,2018-05-20,Las Vegas Aces at Connecticut Sun,Las Vegas Aces,65,Connecticut Sun,101,Mohegan Sun Arena,6637,False
+401018784,2018-05-20,Indiana Fever at Washington Mystics,Indiana Fever,75,Washington Mystics,82,Capital One Arena,7400,False
+401018785,2018-05-20,Atlanta Dream at Dallas Wings,Atlanta Dream,78,Dallas Wings,101,College Park Center,5907,False
+401018786,2018-05-20,Los Angeles Sparks at Minnesota Lynx,Los Angeles Sparks,77,Minnesota Lynx,76,Target Center,13032,False
+401018787,2018-05-20,New York Liberty at Chicago Sky,New York Liberty,76,Chicago Sky,80,Wintrust Arena,7922,False
+401018788,2018-05-21,Phoenix Mercury at Seattle Storm,Phoenix Mercury,87,Seattle Storm,82,KeyArena,8602,False
+401018789,2018-05-22,Los Angeles Sparks at Indiana Fever,Los Angeles Sparks,87,Indiana Fever,70,Gainbridge Fieldhouse,4742,False
+401018790,2018-05-22,Las Vegas Aces at Washington Mystics,Las Vegas Aces,70,Washington Mystics,75,Capital One Arena,4509,False
+401018791,2018-05-23,Atlanta Dream at Chicago Sky,Atlanta Dream,81,Chicago Sky,63,Wintrust Arena,6147,False
+401018792,2018-05-24,Dallas Wings at Minnesota Lynx,Dallas Wings,68,Minnesota Lynx,76,Target Center,7834,False
+401018793,2018-05-24,Seattle Storm at Phoenix Mercury,Seattle Storm,87,Phoenix Mercury,71,Mortgage Matchup Center,8068,False
+401018794,2018-05-24,Los Angeles Sparks at Connecticut Sun,Los Angeles Sparks,94,Connecticut Sun,102,Mohegan Sun Arena,5571,False
+401018795,2018-05-24,Washington Mystics at Indiana Fever,Washington Mystics,93,Indiana Fever,84,Gainbridge Fieldhouse,4415,False
+401018796,2018-05-25,Minnesota Lynx at New York Liberty,Minnesota Lynx,78,New York Liberty,72,Westchester County Center,2315,False
+401018797,2018-05-26,Chicago Sky at Seattle Storm,Chicago Sky,91,Seattle Storm,95,KeyArena,5866,True
+401018798,2018-05-26,Dallas Wings at Atlanta Dream,Dallas Wings,78,Atlanta Dream,70,McCamish Pavilion,4749,False
+401018799,2018-05-26,Indiana Fever at Connecticut Sun,Indiana Fever,77,Connecticut Sun,86,Mohegan Sun Arena,5843,False
+401018800,2018-05-27,Minnesota Lynx at Washington Mystics,Minnesota Lynx,78,Washington Mystics,90,Capital One Arena,5723,False
+401018801,2018-05-27,Phoenix Mercury at Los Angeles Sparks,Phoenix Mercury,72,Los Angeles Sparks,80,crypto.com Arena,11201,False
+401018802,2018-05-28,Seattle Storm at Las Vegas Aces,Seattle Storm,105,Las Vegas Aces,98,Michelob ULTRA Arena,7662,False
+401018803,2018-05-29,Minnesota Lynx at Atlanta Dream,Minnesota Lynx,74,Atlanta Dream,76,McCamish Pavilion,3785,False
+401018804,2018-05-29,Dallas Wings at New York Liberty,Dallas Wings,89,New York Liberty,94,Westchester County Center,1516,False
+401018805,2018-05-30,Washington Mystics at Seattle Storm,Washington Mystics,77,Seattle Storm,81,KeyArena,4453,False
+401018806,2018-05-31,Washington Mystics at Phoenix Mercury,Washington Mystics,103,Phoenix Mercury,95,Mortgage Matchup Center,8188,False
+401018807,2018-06-01,Las Vegas Aces at Seattle Storm,Las Vegas Aces,74,Seattle Storm,101,KeyArena,5235,False
+401018808,2018-06-02,Phoenix Mercury at Minnesota Lynx,Phoenix Mercury,95,Minnesota Lynx,85,Target Center,8830,False
+401018809,2018-06-02,Connecticut Sun at Chicago Sky,Connecticut Sun,110,Chicago Sky,72,Wintrust Arena,4131,False
+401018810,2018-06-02,Washington Mystics at Las Vegas Aces,Washington Mystics,73,Las Vegas Aces,85,Michelob ULTRA Arena,5575,False
+401018811,2018-06-02,New York Liberty at Indiana Fever,New York Liberty,87,Indiana Fever,81,Gainbridge Fieldhouse,5575,True
+401018812,2018-06-03,Seattle Storm at Dallas Wings,Seattle Storm,90,Dallas Wings,94,College Park Center,5191,False
+401018813,2018-06-03,Phoenix Mercury at Atlanta Dream,Phoenix Mercury,78,Atlanta Dream,71,McCamish Pavilion,3796,False
+401018814,2018-06-03,Connecticut Sun at Washington Mystics,Connecticut Sun,88,Washington Mystics,64,Capital One Arena,5176,False
+401018815,2018-06-03,Minnesota Lynx at Los Angeles Sparks,Minnesota Lynx,69,Los Angeles Sparks,77,crypto.com Arena,13500,False
+401018816,2018-06-03,Las Vegas Aces at Chicago Sky,Las Vegas Aces,90,Chicago Sky,95,Wintrust Arena,5052,False
+401018817,2018-06-05,Phoenix Mercury at New York Liberty,Phoenix Mercury,80,New York Liberty,74,Madison Square Garden,7215,False
+401018818,2018-06-06,Connecticut Sun at Atlanta Dream,Connecticut Sun,77,Atlanta Dream,82,McCamish Pavilion,2830,False
+401018819,2018-06-07,Connecticut Sun at New York Liberty,Connecticut Sun,88,New York Liberty,86,Westchester County Center,1581,False
+401018820,2018-06-07,Minnesota Lynx at Washington Mystics,Minnesota Lynx,88,Washington Mystics,80,Capital One Arena,8587,False
+401018821,2018-06-08,Seattle Storm at Los Angeles Sparks,Seattle Storm,88,Los Angeles Sparks,63,crypto.com Arena,9204,False
+401018822,2018-06-08,Dallas Wings at Indiana Fever,Dallas Wings,89,Indiana Fever,83,Gainbridge Fieldhouse,5675,False
+401018824,2018-06-08,Atlanta Dream at Las Vegas Aces,Atlanta Dream,87,Las Vegas Aces,83,Michelob ULTRA Arena,5913,False
+401018823,2018-06-09,Chicago Sky at Phoenix Mercury,Chicago Sky,79,Phoenix Mercury,96,Mortgage Matchup Center,8834,False
+401018825,2018-06-09,Minnesota Lynx at Connecticut Sun,Minnesota Lynx,75,Connecticut Sun,89,Mohegan Sun Arena,6771,False
+401018826,2018-06-10,Indiana Fever at New York Liberty,Indiana Fever,75,New York Liberty,78,Westchester County Center,1537,False
+401018827,2018-06-10,Chicago Sky at Los Angeles Sparks,Chicago Sky,59,Los Angeles Sparks,77,crypto.com Arena,8239,False
+401018828,2018-06-10,Las Vegas Aces at Phoenix Mercury,Las Vegas Aces,66,Phoenix Mercury,72,Mortgage Matchup Center,8471,False
+401018829,2018-06-10,Atlanta Dream at Seattle Storm,Atlanta Dream,67,Seattle Storm,64,KeyArena,6345,False
+401018830,2018-06-12,Las Vegas Aces at Indiana Fever,Las Vegas Aces,101,Indiana Fever,92,Gainbridge Fieldhouse,5437,True
+401018831,2018-06-13,Phoenix Mercury at Dallas Wings,Phoenix Mercury,75,Dallas Wings,72,College Park Center,4026,False
+401018832,2018-06-13,Chicago Sky at Seattle Storm,Chicago Sky,85,Seattle Storm,96,KeyArena,4353,False
+401018833,2018-06-13,Atlanta Dream at Los Angeles Sparks,Atlanta Dream,64,Los Angeles Sparks,72,crypto.com Arena,9215,False
+401018834,2018-06-13,Washington Mystics at Connecticut Sun,Washington Mystics,95,Connecticut Sun,91,Mohegan Sun Arena,0,False
+401018835,2018-06-13,Las Vegas Aces at New York Liberty,Las Vegas Aces,78,New York Liberty,63,Westchester County Center,1419,False
+401018836,2018-06-14,Indiana Fever at Atlanta Dream,Indiana Fever,67,Atlanta Dream,72,McCamish Pavilion,6560,False
+401018837,2018-06-15,Los Angeles Sparks at Washington Mystics,Los Angeles Sparks,97,Washington Mystics,86,Capital One Arena,5289,False
+401018838,2018-06-16,Las Vegas Aces at Dallas Wings,Las Vegas Aces,67,Dallas Wings,77,College Park Center,4549,False
+401018839,2018-06-16,Connecticut Sun at Seattle Storm,Connecticut Sun,92,Seattle Storm,103,KeyArena,7094,False
+401018840,2018-06-16,Atlanta Dream at Indiana Fever,Atlanta Dream,64,Indiana Fever,96,Gainbridge Fieldhouse,6234,False
+401018841,2018-06-17,New York Liberty at Minnesota Lynx,New York Liberty,71,Minnesota Lynx,85,Target Center,9114,False
+401018842,2018-06-17,Connecticut Sun at Phoenix Mercury,Connecticut Sun,72,Phoenix Mercury,89,Mortgage Matchup Center,12497,False
+401018843,2018-06-17,Los Angeles Sparks at Chicago Sky,Los Angeles Sparks,81,Chicago Sky,72,Wintrust Arena,5584,False
+401018844,2018-06-18,Phoenix Mercury at Las Vegas Aces,Phoenix Mercury,92,Las Vegas Aces,80,Michelob ULTRA Arena,4432,False
+401018845,2018-06-19,Atlanta Dream at New York Liberty,Atlanta Dream,72,New York Liberty,79,Westchester County Center,1627,False
+401018846,2018-06-19,Chicago Sky at Washington Mystics,Chicago Sky,60,Washington Mystics,88,Capital One Arena,4206,False
+401018847,2018-06-20,Dallas Wings at Minnesota Lynx,Dallas Wings,83,Minnesota Lynx,91,Target Center,8023,False
+401018848,2018-06-20,Las Vegas Aces at Seattle Storm,Las Vegas Aces,89,Seattle Storm,77,KeyArena,6395,False
+401018849,2018-06-20,Indiana Fever at Los Angeles Sparks,Indiana Fever,55,Los Angeles Sparks,74,crypto.com Arena,8857,False
+401018850,2018-06-22,Connecticut Sun at Atlanta Dream,Connecticut Sun,70,Atlanta Dream,75,McCamish Pavilion,4047,False
+401018851,2018-06-23,Los Angeles Sparks at Dallas Wings,Los Angeles Sparks,72,Dallas Wings,101,College Park Center,0,False
+401018852,2018-06-23,Washington Mystics at Chicago Sky,Washington Mystics,93,Chicago Sky,77,Wintrust Arena,5831,False
+401018853,2018-06-23,New York Liberty at Las Vegas Aces,New York Liberty,78,Las Vegas Aces,88,Michelob ULTRA Arena,5478,False
+401018854,2018-06-23,Minnesota Lynx at Phoenix Mercury,Minnesota Lynx,83,Phoenix Mercury,72,Mortgage Matchup Center,11349,False
+401018855,2018-06-23,Indiana Fever at Seattle Storm,Indiana Fever,63,Seattle Storm,72,KeyArena,8142,False
+401018856,2018-06-24,Seattle Storm at Dallas Wings,Seattle Storm,97,Dallas Wings,76,College Park Center,4084,False
+401018857,2018-06-24,New York Liberty at Los Angeles Sparks,New York Liberty,54,Los Angeles Sparks,80,crypto.com Arena,9203,False
+401018858,2018-06-24,Connecticut Sun at Indiana Fever,Connecticut Sun,87,Indiana Fever,78,Gainbridge Fieldhouse,5458,False
+401018859,2018-06-24,Minnesota Lynx at Las Vegas Aces,Minnesota Lynx,88,Las Vegas Aces,73,Michelob ULTRA Arena,0,False
+401018860,2018-06-24,Phoenix Mercury at Chicago Sky,Phoenix Mercury,88,Chicago Sky,97,Wintrust Arena,4741,False
+401018861,2018-06-26,Phoenix Mercury at New York Liberty,Phoenix Mercury,83,New York Liberty,69,Westchester County Center,1839,False
+401018862,2018-06-26,Connecticut Sun at Washington Mystics,Connecticut Sun,80,Washington Mystics,92,Capital One Arena,4139,False
+401018863,2018-06-27,Seattle Storm at Minnesota Lynx,Seattle Storm,79,Minnesota Lynx,91,Target Center,8634,False
+401018864,2018-06-27,Dallas Wings at Los Angeles Sparks,Dallas Wings,83,Los Angeles Sparks,87,crypto.com Arena,10002,False
+401018865,2018-06-27,Atlanta Dream at Chicago Sky,Atlanta Dream,80,Chicago Sky,93,Wintrust Arena,8521,False
+401018866,2018-06-27,Indiana Fever at Connecticut Sun,Indiana Fever,89,Connecticut Sun,101,Mohegan Sun Arena,5112,False
+401018867,2018-06-28,Dallas Wings at Las Vegas Aces,Dallas Wings,97,Las Vegas Aces,91,Michelob ULTRA Arena,5246,False
+401018868,2018-06-28,New York Liberty at Washington Mystics,New York Liberty,77,Washington Mystics,80,Capital One Arena,4473,False
+401018869,2018-06-29,Los Angeles Sparks at Seattle Storm,Los Angeles Sparks,72,Seattle Storm,81,KeyArena,8447,False
+401018870,2018-06-29,Phoenix Mercury at Indiana Fever,Phoenix Mercury,95,Indiana Fever,77,Gainbridge Fieldhouse,7241,False
+401018871,2018-06-29,Chicago Sky at New York Liberty,Chicago Sky,103,New York Liberty,99,Westchester County Center,1837,False
+401018872,2018-06-30,Atlanta Dream at Minnesota Lynx,Atlanta Dream,74,Minnesota Lynx,85,Target Center,9209,False
+401018873,2018-06-30,Los Angeles Sparks at Las Vegas Aces,Los Angeles Sparks,78,Las Vegas Aces,94,Michelob ULTRA Arena,5124,False
+401018874,2018-06-30,Phoenix Mercury at Washington Mystics,Phoenix Mercury,84,Washington Mystics,74,Capital One Arena,6218,False
+401018875,2018-07-01,Minnesota Lynx at Dallas Wings,Minnesota Lynx,76,Dallas Wings,72,College Park Center,4448,False
+401018876,2018-07-01,Las Vegas Aces at Los Angeles Sparks,Las Vegas Aces,71,Los Angeles Sparks,87,crypto.com Arena,12003,False
+401018877,2018-07-01,Atlanta Dream at Indiana Fever,Atlanta Dream,87,Indiana Fever,83,Gainbridge Fieldhouse,5277,False
+401018878,2018-07-01,New York Liberty at Chicago Sky,New York Liberty,97,Chicago Sky,94,Wintrust Arena,5382,True
+401018879,2018-07-01,Connecticut Sun at Seattle Storm,Connecticut Sun,70,Seattle Storm,84,KeyArena,9307,False
+401018880,2018-07-03,Seattle Storm at New York Liberty,Seattle Storm,77,New York Liberty,62,Westchester County Center,1749,False
+401018881,2018-07-04,Chicago Sky at Dallas Wings,Chicago Sky,85,Dallas Wings,108,College Park Center,4012,False
+401018882,2018-07-04,Indiana Fever at Minnesota Lynx,Indiana Fever,71,Minnesota Lynx,59,Target Center,8632,False
+401018883,2018-07-04,Connecticut Sun at Los Angeles Sparks,Connecticut Sun,73,Los Angeles Sparks,72,crypto.com Arena,6280,False
+401018884,2018-07-05,New York Liberty at Washington Mystics,New York Liberty,67,Washington Mystics,86,Capital One Arena,4674,False
+401018885,2018-07-06,Indiana Fever at Dallas Wings,Indiana Fever,63,Dallas Wings,90,College Park Center,4043,False
+401018886,2018-07-06,Los Angeles Sparks at Minnesota Lynx,Los Angeles Sparks,72,Minnesota Lynx,83,Target Center,9303,False
+401018887,2018-07-06,Chicago Sky at Las Vegas Aces,Chicago Sky,80,Las Vegas Aces,84,Michelob ULTRA Arena,4699,False
+401018888,2018-07-06,Connecticut Sun at Phoenix Mercury,Connecticut Sun,77,Phoenix Mercury,84,Mortgage Matchup Center,8599,False
+401018889,2018-07-06,Seattle Storm at Atlanta Dream,Seattle Storm,95,Atlanta Dream,86,McCamish Pavilion,3935,False
+401018890,2018-07-07,Washington Mystics at Los Angeles Sparks,Washington Mystics,83,Los Angeles Sparks,74,crypto.com Arena,10163,False
+401018891,2018-07-08,Minnesota Lynx at Chicago Sky,Minnesota Lynx,63,Chicago Sky,77,Wintrust Arena,6139,False
+401018892,2018-07-08,Connecticut Sun at Las Vegas Aces,Connecticut Sun,90,Las Vegas Aces,94,Michelob ULTRA Arena,3363,False
+401018893,2018-07-08,Phoenix Mercury at Atlanta Dream,Phoenix Mercury,70,Atlanta Dream,76,McCamish Pavilion,3952,False
+401018894,2018-07-08,Dallas Wings at New York Liberty,Dallas Wings,97,New York Liberty,87,Westchester County Center,1719,False
+401018895,2018-07-08,Washington Mystics at Seattle Storm,Washington Mystics,91,Seattle Storm,97,KeyArena,8724,False
+401018896,2018-07-10,Los Angeles Sparks at Seattle Storm,Los Angeles Sparks,77,Seattle Storm,75,KeyArena,9686,True
+401018897,2018-07-11,Phoenix Mercury at Dallas Wings,Phoenix Mercury,72,Dallas Wings,101,College Park Center,4034,False
+401018898,2018-07-11,Las Vegas Aces at Chicago Sky,Las Vegas Aces,98,Chicago Sky,74,Wintrust Arena,7696,False
+401018899,2018-07-11,New York Liberty at Connecticut Sun,New York Liberty,79,Connecticut Sun,76,Mohegan Sun Arena,7413,False
+401018900,2018-07-11,Atlanta Dream at Washington Mystics,Atlanta Dream,106,Washington Mystics,89,Capital One Arena,11354,False
+401018901,2018-07-11,Minnesota Lynx at Indiana Fever,Minnesota Lynx,87,Indiana Fever,65,Gainbridge Fieldhouse,10006,False
+401018902,2018-07-12,Dallas Wings at Los Angeles Sparks,Dallas Wings,92,Los Angeles Sparks,77,crypto.com Arena,13502,False
+401018903,2018-07-13,Indiana Fever at Atlanta Dream,Indiana Fever,74,Atlanta Dream,98,McCamish Pavilion,3807,False
+401018904,2018-07-13,Phoenix Mercury at Connecticut Sun,Phoenix Mercury,87,Connecticut Sun,91,Mohegan Sun Arena,7696,False
+401018905,2018-07-13,Chicago Sky at Washington Mystics,Chicago Sky,72,Washington Mystics,88,Capital One Arena,5858,False
+401018906,2018-07-14,Las Vegas Aces at Minnesota Lynx,Las Vegas Aces,85,Minnesota Lynx,77,Target Center,9813,False
+401018907,2018-07-15,Dallas Wings at Seattle Storm,Dallas Wings,84,Seattle Storm,91,KeyArena,9686,False
+401018908,2018-07-15,Washington Mystics at Atlanta Dream,Washington Mystics,77,Atlanta Dream,80,McCamish Pavilion,3880,False
+401018909,2018-07-15,Chicago Sky at New York Liberty,Chicago Sky,84,New York Liberty,107,Westchester County Center,2073,False
+401018910,2018-07-15,Phoenix Mercury at Indiana Fever,Phoenix Mercury,101,Indiana Fever,82,Gainbridge Fieldhouse,6302,False
+401018911,2018-07-15,Los Angeles Sparks at Las Vegas Aces,Los Angeles Sparks,99,Las Vegas Aces,78,Michelob ULTRA Arena,4810,False
+401018912,2018-07-15,Connecticut Sun at Minnesota Lynx,Connecticut Sun,83,Minnesota Lynx,64,Target Center,9234,False
+401018913,2018-07-17,New York Liberty at Dallas Wings,New York Liberty,87,Dallas Wings,104,College Park Center,6459,False
+401018914,2018-07-17,Atlanta Dream at Connecticut Sun,Atlanta Dream,86,Connecticut Sun,83,Mohegan Sun Arena,5555,False
+401018915,2018-07-18,Seattle Storm at Chicago Sky,Seattle Storm,101,Chicago Sky,83,Wintrust Arena,10024,False
+401018916,2018-07-18,Indiana Fever at Minnesota Lynx,Indiana Fever,65,Minnesota Lynx,89,Target Center,17933,False
+401018917,2018-07-19,New York Liberty at Atlanta Dream,New York Liberty,68,Atlanta Dream,82,McCamish Pavilion,3074,False
+401018918,2018-07-20,Washington Mystics at Dallas Wings,Washington Mystics,81,Dallas Wings,90,College Park Center,4411,False
+401018919,2018-07-20,Las Vegas Aces at Phoenix Mercury,Las Vegas Aces,85,Phoenix Mercury,82,Mortgage Matchup Center,8587,False
+401018920,2018-07-20,Seattle Storm at Connecticut Sun,Seattle Storm,78,Connecticut Sun,65,Mohegan Sun Arena,7908,False
+401018921,2018-07-21,Dallas Wings at Chicago Sky,Dallas Wings,99,Chicago Sky,114,Wintrust Arena,4962,False
+401018922,2018-07-21,Indiana Fever at Los Angeles Sparks,Indiana Fever,78,Los Angeles Sparks,76,crypto.com Arena,10532,False
+401018923,2018-07-21,Washington Mystics at New York Liberty,Washington Mystics,95,New York Liberty,78,Westchester County Center,2005,False
+401018924,2018-07-22,Minnesota Lynx at Phoenix Mercury,Minnesota Lynx,80,Phoenix Mercury,75,Mortgage Matchup Center,11473,False
+401018925,2018-07-22,Seattle Storm at Atlanta Dream,Seattle Storm,74,Atlanta Dream,87,McCamish Pavilion,4916,False
+401018926,2018-07-22,Connecticut Sun at Dallas Wings,Connecticut Sun,92,Dallas Wings,75,College Park Center,4935,False
+401018927,2018-07-22,Indiana Fever at Las Vegas Aces,Indiana Fever,74,Las Vegas Aces,88,Michelob ULTRA Arena,5368,False
+401018928,2018-07-22,Los Angeles Sparks at Chicago Sky,Los Angeles Sparks,93,Chicago Sky,76,Wintrust Arena,6477,False
+401018929,2018-07-24,Washington Mystics at Connecticut Sun,Washington Mystics,68,Connecticut Sun,94,Mohegan Sun Arena,5125,False
+401018930,2018-07-24,Seattle Storm at Indiana Fever,Seattle Storm,92,Indiana Fever,72,Gainbridge Fieldhouse,5908,False
+401018931,2018-07-25,New York Liberty at Minnesota Lynx,New York Liberty,82,Minnesota Lynx,85,Target Center,9830,False
+401018932,2018-07-25,Atlanta Dream at Los Angeles Sparks,Atlanta Dream,81,Los Angeles Sparks,71,crypto.com Arena,9324,False
+401018933,2018-07-25,Chicago Sky at Phoenix Mercury,Chicago Sky,101,Phoenix Mercury,87,Mortgage Matchup Center,10338,False
+401066195,2018-07-28,Team Parker Team Parker at DEL Team Delle Donne,Team Parker,119,Team Delle Donne,112,Target Center,15922,False
+401018934,2018-07-31,Washington Mystics at Atlanta Dream,Washington Mystics,86,Atlanta Dream,71,McCamish Pavilion,3648,False
+401018935,2018-08-01,Chicago Sky at Dallas Wings,Chicago Sky,92,Dallas Wings,91,College Park Center,3696,False
+401018936,2018-08-01,Seattle Storm at Phoenix Mercury,Seattle Storm,102,Phoenix Mercury,91,Mortgage Matchup Center,10005,False
+401018937,2018-08-01,New York Liberty at Connecticut Sun,New York Liberty,77,Connecticut Sun,92,Mohegan Sun Arena,6412,False
+401018938,2018-08-02,Phoenix Mercury at Las Vegas Aces,Phoenix Mercury,104,Las Vegas Aces,93,Michelob ULTRA Arena,5129,False
+401018939,2018-08-02,Dallas Wings at Indiana Fever,Dallas Wings,78,Indiana Fever,84,Gainbridge Fieldhouse,5981,False
+401018940,2018-08-03,Minnesota Lynx at Los Angeles Sparks,Minnesota Lynx,57,Los Angeles Sparks,79,crypto.com Arena,9542,False
+401018941,2018-08-03,Chicago Sky at Atlanta Dream,Chicago Sky,74,Atlanta Dream,89,McCamish Pavilion,5120,False
+401018942,2018-08-04,Las Vegas Aces at Washington Mystics,Las Vegas Aces,0,Washington Mystics,0,Capital One Arena,0,False
+401018943,2018-08-04,Minnesota Lynx at Seattle Storm,Minnesota Lynx,75,Seattle Storm,85,KeyArena,12064,False
+401018944,2018-08-04,Indiana Fever at New York Liberty,Indiana Fever,68,New York Liberty,55,Westchester County Center,2225,False
+401018945,2018-08-05,Las Vegas Aces at Connecticut Sun,Las Vegas Aces,88,Connecticut Sun,109,Mohegan Sun Arena,6791,False
+401018946,2018-08-05,Washington Mystics at Dallas Wings,Washington Mystics,76,Dallas Wings,74,College Park Center,5623,False
+401018947,2018-08-05,Phoenix Mercury at Los Angeles Sparks,Phoenix Mercury,75,Los Angeles Sparks,78,crypto.com Arena,19076,False
+401018948,2018-08-05,Atlanta Dream at Minnesota Lynx,Atlanta Dream,86,Minnesota Lynx,66,Target Center,9333,False
+401018949,2018-08-06,Seattle Storm at New York Liberty,Seattle Storm,96,New York Liberty,80,Madison Square Garden,12488,False
+401018950,2018-08-07,Las Vegas Aces at Atlanta Dream,Las Vegas Aces,100,Atlanta Dream,109,McCamish Pavilion,4033,False
+401018951,2018-08-07,Seattle Storm at Indiana Fever,Seattle Storm,94,Indiana Fever,79,Gainbridge Fieldhouse,6401,False
+401018952,2018-08-08,Minnesota Lynx at Chicago Sky,Minnesota Lynx,85,Chicago Sky,64,Wintrust Arena,6388,False
+401018953,2018-08-08,Washington Mystics at Phoenix Mercury,Washington Mystics,103,Phoenix Mercury,98,Mortgage Matchup Center,7769,False
+401018954,2018-08-08,Los Angeles Sparks at New York Liberty,Los Angeles Sparks,82,New York Liberty,81,Westchester County Center,2481,False
+401018955,2018-08-09,Connecticut Sun at Dallas Wings,Connecticut Sun,101,Dallas Wings,92,College Park Center,3483,False
+401018956,2018-08-09,Seattle Storm at Washington Mystics,Seattle Storm,77,Washington Mystics,100,Capital One Arena,6808,False
+401018957,2018-08-09,Los Angeles Sparks at Atlanta Dream,Los Angeles Sparks,73,Atlanta Dream,79,McCamish Pavilion,4235,False
+401018958,2018-08-10,Minnesota Lynx at Las Vegas Aces,Minnesota Lynx,89,Las Vegas Aces,73,Michelob ULTRA Arena,4497,False
+401018959,2018-08-11,Connecticut Sun at Chicago Sky,Connecticut Sun,86,Chicago Sky,97,Wintrust Arena,5976,False
+401018960,2018-08-11,Indiana Fever at Phoenix Mercury,Indiana Fever,74,Phoenix Mercury,94,Mortgage Matchup Center,8860,False
+401018961,2018-08-11,Dallas Wings at Atlanta Dream,Dallas Wings,82,Atlanta Dream,92,McCamish Pavilion,4937,False
+401018962,2018-08-12,Indiana Fever at Las Vegas Aces,Indiana Fever,74,Las Vegas Aces,92,Michelob ULTRA Arena,5213,False
+401018963,2018-08-12,Atlanta Dream at New York Liberty,Atlanta Dream,86,New York Liberty,77,Westchester County Center,2362,False
+401018964,2018-08-12,Chicago Sky at Connecticut Sun,Chicago Sky,75,Connecticut Sun,82,Mohegan Sun Arena,7687,False
+401018965,2018-08-12,Dallas Wings at Washington Mystics,Dallas Wings,80,Washington Mystics,93,Capital One Arena,6362,False
+401018966,2018-08-12,Los Angeles Sparks at Phoenix Mercury,Los Angeles Sparks,78,Phoenix Mercury,86,Mortgage Matchup Center,10618,False
+401018967,2018-08-12,Seattle Storm at Minnesota Lynx,Seattle Storm,81,Minnesota Lynx,72,Target Center,9123,False
+401018968,2018-08-14,Dallas Wings at Connecticut Sun,Dallas Wings,76,Connecticut Sun,96,Mohegan Sun Arena,6365,False
+401018969,2018-08-15,Chicago Sky at Minnesota Lynx,Chicago Sky,91,Minnesota Lynx,88,Target Center,9730,False
+401018970,2018-08-15,New York Liberty at Los Angeles Sparks,New York Liberty,66,Los Angeles Sparks,74,crypto.com Arena,11067,False
+401018971,2018-08-15,Washington Mystics at Indiana Fever,Washington Mystics,76,Indiana Fever,62,Gainbridge Fieldhouse,7636,False
+401018972,2018-08-16,New York Liberty at Las Vegas Aces,New York Liberty,72,Las Vegas Aces,85,Michelob ULTRA Arena,7159,False
+401018973,2018-08-17,Minnesota Lynx at Connecticut Sun,Minnesota Lynx,79,Connecticut Sun,96,Mohegan Sun Arena,7089,False
+401018974,2018-08-17,Los Angeles Sparks at Washington Mystics,Los Angeles Sparks,67,Washington Mystics,69,Capital One Arena,7400,False
+401018975,2018-08-18,Las Vegas Aces at Dallas Wings,Las Vegas Aces,102,Dallas Wings,107,College Park Center,0,False
+401018976,2018-08-18,Atlanta Dream at Phoenix Mercury,Atlanta Dream,95,Phoenix Mercury,104,Mortgage Matchup Center,11177,False
+401018977,2018-08-18,New York Liberty at Seattle Storm,New York Liberty,77,Seattle Storm,85,KeyArena,10873,False
+401018978,2018-08-18,Chicago Sky at Indiana Fever,Chicago Sky,115,Indiana Fever,106,Gainbridge Fieldhouse,8442,True
+401018979,2018-08-19,Los Angeles Sparks at Connecticut Sun,Los Angeles Sparks,86,Connecticut Sun,89,Mohegan Sun Arena,8040,False
+401018980,2018-08-19,Atlanta Dream at Las Vegas Aces,Atlanta Dream,93,Las Vegas Aces,78,Michelob ULTRA Arena,5737,False
+401018981,2018-08-19,New York Liberty at Phoenix Mercury,New York Liberty,85,Phoenix Mercury,96,Mortgage Matchup Center,13106,False
+401018982,2018-08-19,Indiana Fever at Chicago Sky,Indiana Fever,97,Chicago Sky,92,Wintrust Arena,7118,False
+401018983,2018-08-19,Dallas Wings at Seattle Storm,Dallas Wings,68,Seattle Storm,84,KeyArena,12574,False
+401018984,2018-08-19,Washington Mystics at Minnesota Lynx,Washington Mystics,83,Minnesota Lynx,88,Target Center,13013,False

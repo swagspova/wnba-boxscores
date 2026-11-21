@@ -1,11 +1,12 @@
-# WNBA Box Scores (2019–2026)
+# WNBA Box Scores (2018–2026)
 
-Python scripts that pull every completed **WNBA regular-season** game from ESPN's public API and save the box scores as CSV files. There is one script per season, in the `Code/` folder, covering the **2019, 2020, 2021, 2022, 2023, 2024, 2025 and 2026** seasons.
+Python scripts that pull every completed **WNBA regular-season** game from ESPN's public API and save the box scores as CSV files. There is one script per season, in the `Code/` folder, covering the **2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 and 2026** seasons.
 
 ## Repository layout
 
 ```
 Code/
+    wnba_boxscores_2018.py
     wnba_boxscores_2019.py
     wnba_boxscores_2020.py
     wnba_boxscores_2021.py
@@ -14,10 +15,12 @@ Code/
     wnba_boxscores_2024.py
     wnba_boxscores_2025.py
     wnba_boxscores_2026.py
-wnba_2019_csv/
+wnba_2018_csv/
     games.csv
     player_stats.csv
     team_stats.csv
+wnba_2019_csv/
+    ...
 wnba_2020_csv/
     ...
 wnba_2021_csv/
@@ -62,6 +65,7 @@ pip install requests pandas
 Run the script for the season you want:
 
 ```bash
+python Code/wnba_boxscores_2018.py --season 2018 --out-dir wnba_2018_csv
 python Code/wnba_boxscores_2019.py --season 2019 --out-dir wnba_2019_csv
 python Code/wnba_boxscores_2020.py --season 2020 --out-dir wnba_2020_csv
 python Code/wnba_boxscores_2021.py --season 2021 --out-dir wnba_2021_csv
